@@ -12962,4 +12962,978 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Search the battlefield for Lady Katrin and slay her.",
     ["T"] = "Strategic Strike",
   },
+  [41898] = {
+    ["D"] = "These verdant hills were once a friendly place where the Timbermaw and our allies the Blackroot conducted trade, and held great ceremonies. Ever since the Burning Legion returned to Azeroth, our former allies have been driven into madness, and now stalk the hills and fields. They have lost themselves to madness and can no longer be reasoned with. I must ask you to do what is necessary for our kind to continue, to cull the corruption that lingers here to keep safe the Timbermaw. Find their leader Grawlsh and slay him, as well as his twisted kin.",
+    ["O"] = "Slay 8 Blackroot Warriors, 8 Blackroot Shaman, 8 Blackroot Ursas, and Grawlsh the Mad for Raghol at the entrance of Timbermaw Hold at the southern end of Moonwhisper Coast.",
+    ["T"] = "Twisted Relations",
+  },
+  [41899] = {
+    ["D"] = "I am here to give you quest, me big quest giver, me furbolg.",
+    ["O"] = "Gather 10 Blackroot Totems from the local Blackroot Furbolg for Raghol at the Timbermaw Hold Entrance at southern Moonwhisper Coast.",
+    ["T"] = "Blackroot Totems",
+  },
+  [41900] = {
+    ["D"] = "Our most sacred Sapta's lie in my hands, and I am the only one who knows how to make them. If you desire one of my Sapta, bring me the required materials, and it shall be yours!",
+    ["O"] = "Bring 1 Timbermaw Sap, and 1 Elemental Air for Grathnol in Azshara.",
+    ["T"] = "Sapta of Tranquility",
+  },
+  [41901] = {
+    ["D"] = "Our most sacred Sapta's lie in my hands, and I am the only one who knows how to make them. If you desire one of my Sapta, bring me the required materials, and it shall be yours!",
+    ["O"] = "Bring 1 Timbermaw Sap, and 1 Icecap for Grathnol in Azshara.",
+    ["T"] = "Sapta of Communion",
+  },
+  [41902] = {
+    ["D"] = "Our most sacred Sapta's lie in my hands, and I am the only one who knows how to make them. If you desire one of my Sapta, bring me the required materials, and it shall be yours!",
+    ["O"] = "Bring 1 Timbermaw Sap, and 1 Heart of the Wild for Grathnol in Azshara.",
+    ["T"] = "Sapta of Harmony",
+  },
+  [41903] = {
+    ["D"] = "Our most sacred Sapta's lie in my hands, and I am the only one who knows how to make them. If you desire one of my Sapta, bring me the required materials, and it shall be yours!",
+    ["O"] = "Bring 1 Timbermaw Sap, and 1 Sungrass for Grathnol in Azshara.",
+    ["T"] = "Sapta of Kinship",
+  },
+  [41904] = {
+    ["D"] = "Our most sacred Sapta's lie in my hands, and I am the only one who knows how to make them. If you desire one of my Sapta, bring me the required materials, and it shall be yours!",
+    ["O"] = "Bring 1 Timbermaw Sap, and 1 Essence of Undeath for Grathnol in Azshara.",
+    ["T"] = "Sapta of Reslilence",
+  },
+  [41905] = {
+    ["D"] = "While most of the caravans already departed to Stormwind, and eventually to Alah'thalas, there are still many refugees who either wish to aid us here in the Farstrider Lodge or are still preparing for their journey. I wish I could say the same about the Dark Iron that roam the surrounding mountain ranges. Their horrible actions during the High Elves' arrival in Loch Modan still continue to this day. Just recently they raided the last convoy on its way to Ironforge, stealing valuable supplies from those needing them most. <name>, I appeal to your good heart to return what has been stolen to their rightful owners. The Dark Iron set up camp in the southwest, be wary of their insidious tricks. They cannot be trusted under any circumstance.",
+    ["O"] = "Recover the robbed provisions from the Dark Iron and bring them to Kelt Thomasin at the Farstrider Lodge.",
+    ["T"] = "Dark Iron Aggression",
+  },
+  [41906] = {
+    ["D"] = "They are no different than the wild beasts we hunt. The Dark Iron violate the peace of my people by refusing them to find a new home after everything they endured. Not only are they ambushing our caravans to Ironforge, but just recently they began abducting innocents. <name>, will you assist us in rescuing these poor souls? I dare not think about what the dwarves intend to do with them, given that even a child is among the captives. Will they be put into slave labour in the deep mines of the Blackrock Mountain, like the mountaineers tell us? They will not survive it, should it come to pass. Please, ensure they have their chance on a brighter future after the horrors of Menethil's crusade. Release them from their prison, I am certain one of the Dark Iron has the key for it on him. They've been taken to their camp in the southwest.",
+    ["O"] = "Free the abducted High Elven family from the Dark Iron camp.",
+    ["T"] = "No Mercy For The Wicked",
+  },
+  [41907] = {
+    ["D"] = "You there, traveler! I must beset you for your aid. A few weeks ago the entirety of Riverhorn Village was put to the flame and now it has been left to be pillaged, and ransacked by the fallen draenei who prowl the countryside. My fellow tribe has been scattered, and now much of the heirlooms of our people lie amongst the destruction. If you could seek it in your heart, recover some of the heirlooms of my tribe, and bring them to me. You can find them to the north, amongst the ruins of Riverhorn Village.",
+    ["O"] = "Travel north, to Riverhorn Village and recover 7 Riverhorn Heirlooms for Yagoh Riverhorn at his house, south of Riverhorn Village at Moonwhisper Coast.",
+    ["T"] = "Riverhorn Village",
+  },
+  [41908] = "Raw Draenethyst Formation",
+  [41909] = "Glowing Draenethyst Cluster",
+  [41910] = {
+    ["D"] = "My tribe sees me in high regard, have we not lived humble but resplendent lives up until just a few moons ago. Now the Moro'gai are sundered, torn apart, leaving us weak and isolated on this island. All the while our fallen brethren are wreaking havoc across the coast, jeapordizing the bonds we had formed with the other inhabitants of this land. Apologies, Parash'ka. Here you stand before me, with a mission on your own, yet all that leaves my heart are laments of my own; no words of wisdom as befit for a chieftain. The hostile draenei you encountered so far are the Fallen Ones, heretic followers of my most trusted advisor - and dearest friend - Elder Bhu'robi. We've been under relentless attacks for quite a while now, their aggression increasing with each passing day. In light of our dire situation, my son Ar'lia volunteered to resolve this crisis. Speak to him and learn what he has uncovered so far. You'll find him outside on the marketplace.",
+    ["O"] = "Speak with Ar'lia in Moro'gai Village in Moonwhisper Coast.",
+    ["T"] = "Ar'lia of the Moro'gai",
+  },
+  [41911] = {
+    ["D"] = "We have watched the Fallen Ones' movement closely ever since they had locked us up in our village. While some roam the outskirts along Shimmerstar Lake, the majority of their forces assault us from the north. Sadly, their aggressions are not limited to us. They've begun ambushing the local Tauren and even raided one of their villages, as you may know already. This begs the question: Just what is their goal? What we need first is information. Nar'lan, one of our hunters and close friend of mine, volunteered in infiltrating the outpost they erected, east of Riverhorn Village. Acting as a defector of our tribe, he already reported valuable details back to us. His last report spoke of him pursuing a dangerous lead, and we haven't heard of him since. In my mind I accepted the possible outcome, yet my heart yearns for it to be false. Venture to the Fallen Ones' outpost and search for Nar'lan. And if necessary, finish what he started.",
+    ["O"] = "Find Nar'an in the outpost north of Moro'gai Village and report back to Ar'lia in Moro'gai Village.",
+    ["T"] = "Wolf in Sheep's Clothing",
+  },
+  [41912] = {
+    ["D"] = "So this is the crystal you have found on Nar'lan? The item that he paid with his life for? Its surface is crude and surprisingly hot, almost scalding. Even so, there is an air of familiarity about it… Could it be that…? <name>, I have a suspicion on what this crystal might be, but we need confirmation. Please talk to my mentor Riftmaster Ral'pekta outside the chieftain's hut. A man as knowledgeable as him can shine light upon this mystery.",
+    ["O"] = "Deliver the red crystal to Riftmaster Ral'pekta in Moro'gai Village.",
+    ["T"] = "An Ill Omen",
+  },
+  [41913] = {
+    ["D"] = "The mere thought of some… some creature meddling with our sacred draenethyst…! Preposterous, this act cannot go unpunished. Bhu'robi and his Fallen Ones have broken our hallowed traditions and must be held responsible for it. We will find the crystal's foul origin and rid them of this world. Through the art of divination I shall locate from whence it came, but for that I need your assistance. I require specific ingredients and you will bring them to me. Bring me everything noted on this scroll and the truth will soon be revealed.",
+    ["O"] = "Acquire the needed materials and bring them to Riftmaster Ral'pekta in Moro'gai Village.",
+    ["T"] = "Draenei Divination",
+  },
+  [41914] = {
+    ["D"] = "<Ral'pekta has a stern expression on his face, a bead of sweat runs down his wrinkled olive skin.> I have peered through the Nether and seen the root of the red crystal. As I focused on the divination, dreadful images rushed past my mind. Tall creatures with hooves and sharp claws walking a bloodred canyon, among them draenei, carrying our sacred draenethyst. These hooved fiends… Their horns and fur remind me of the demons of the Twisting Nether, horrors which have enthralled the orcs years ago on Draenor. Parash'ka, venture north, past Riverhorn Village. There, beyond the mountain range you should find what I have gazed at. Whatever you will find there will not be friendly. Young Ar'lia was correct in sending you to me. He took the teachings of his father to heart, even if he himself can't see it. As his tutor, I know he still has much to learn. Once you have found the perpetrators of this heresy, bring proof of their demise to Ar'lia. He should await you on the marketplace.",
+    ["O"] = "Search for the draenei conspirators and bring proof of their death to Ar'lia in Moro'gai village.",
+    ["T"] = "Hooves and Horns, Clad in Red",
+  },
+  [41915] = {
+    ["D"] = "This new god Bhu'robi talks about in the letter… us draenei have never prayed to any god, but instead worshipped the grandeur of the Draenethyst, symbol of the lifeblood of our homeworld. To even think a draenei would devote itself to a singular entity is bewildering, to put it bluntly. Father must've known that the Elder had forsaken his faith in the Draenethyst, he must've. <name>, we should confront him about what we have learned. Perhaps we can convince him to tell us the truth. Go ahead, I will follow shortly.",
+    ["O"] = "Confront Moro'gai K'la in Moro'gai Village about your newfound insights.",
+    ["T"] = "Answers from Father",
+  },
+  [41916] = {
+    ["D"] = "The day Bhu'robi left, he and his followers ventured north. The outpost east of Riverhorn Village is still young, meaning they must have settled even further north. <class>, us Draenei are used to settling near bodies of water; even if Bhu'robi forsake our traditions, I am certain he still chose to follow that intuition. In the northern plains of this coast is a shallow lake, it is likely that you will find them there, preaching to their untrue god. When you find their sanctuary, seek Bhu'robi and end his terror. I fear there is no way to save him anymore. Regarding his followers, please spare as many as you can. I won't ask you to not defend yourself, but they are misled by false hope. In time, they will find their way back to us, the Elders and I will make sure of that.",
+    ["O"] = "Locate Elder Bhu'robi and stop his crusade. Return to Moro'gai K'la once the deed is done.",
+    ["T"] = "The Elder's End",
+  },
+  [41917] = {
+    ["D"] = "<name> was your name? You earned a place among the Moro'gai. With your aid, we were able to avert a grim fate for our people and have been given the opportunity to once more carve a path for a brighter future. Your arrival must've been preordained by the winds of the Twisting Nether, and for that I am grateful. Thanks to you, my son got the courage to confront me, so that I was able to escape my melancholy. He has grown past the little boy I had known him for. Ar'lia is waiting at the marketplace, as usual. He will appreciate you telling him what happened. Go with my blessing, <name>. Enkil Toralar - may the winds of the Twisting Nether be in your favor.",
+    ["O"] = "Speak with Ar'lia at the marketplace of Moro'gai Village.",
+    ["T"] = "A Student's Determination",
+  },
+  [41918] = {
+    ["D"] = "A foreigner? Excuse me, this must sound quite ironic to you, does it not? Is it not me who is alien to your world after all. Nevertheless, am I correct in assuming you are of the travelling sort? That might be most opportune for me. My name is Hara'ne of the Moro'gai. My people settled not far from here on the islands in Shimmerstar Lake. As we speak, renegade members of our own tribe are laying siege to our village, causing many of my kin to suffer grievous injuries. While under blockade, we lack many of the bare necessities, which is why I traveled here. The moths inside Moonsilk Hollow produce powerful silk full of potent energy, with which we can accelerate the healing of our wounded friends. Would you be willing to aid me in my cause? Then collect enough spools of silk from the moths and deliver them to Elder Sage Azh'okar , he will know how to proceed with them.",
+    ["O"] = "Bring spools of silk from Moonsilk Hollow to Elder Sage Azh'okar in Moro'gai Village.",
+    ["T"] = "Silken Song",
+  },
+  [41919] = {
+    ["D"] = "What a pleasure to see you again. I take it you have brought Elder the silken spools? Splendid! This may be a good start, but I'm afraid what we gathered so far won't be sufficient for long. To ensure the continued safety of our people, it is necessary for us to create a steady flow of materials for the elder to process. If you could be so kind and gather further silken spools from the moths in Moonsilk Hollow? The Moro'gai will be in your debt, that much is certain.",
+    ["O"] = "Bring spools of silk from Moonsilk Hollow to Elder Sage Azh'okar in Moro'gai Village.",
+    ["T"] = "More Silk for the Wounded",
+  },
+  [41920] = {
+    ["D"] = "One tragedy after another! First I had to take a detour due to these wretched Fallen Ones roaming around the woods, and now my cart broke down, leaving me little choice but to repair it here, out in the open. Not to mention the important cargo I had stashed on the cart being lost in the forest to the east. A strong adventurer like you could just be the person to help me out of my misery. Please venture east and locate the crate that fell off my cart when I escaped the Fallen Ones. They are brigands, ruthless draenei that abandoned our tribe and I don't doubt they will attack you as well. If we're unfortunate, then they have seized it already. Should you find it, deliver it to P'li in our village at Shimmerstar Lake to the north. Tell him Maghan sent you and that I will return soon.",
+    ["O"] = "Find Maghan's lost cargo and bring it to P'li in Moro'gai Village.",
+    ["T"] = "Fallen One Cargo",
+  },
+  [41921] = {
+    ["D"] = "Now that I regained my strength, my senses are sharp once more, and I can feel the magic of your world far better than before. What I felt, however, was surprising, a sensation that had an aura of familiarity to it. It came from the north, a whirlwind of conflicting energy. Ideals clashing, emotions uncertain and a great change abound. You may have seen it already, beyond the cliffs to the north is a land clad in blue, its cerulean hue draping the coast in serene midnight. In my mind I have the image of a great shimmering lake, there I had felt the sensation the strongest. <name>, once we have secured the safety of my people, would you travel to the lands north of here and search for this peculiarity I sensed? My heart tells me it is of great importance.",
+    ["O"] = "Travel to Moonwhisper Coast north of Azshara and locate the shimmering lake.",
+    ["T"] = "A Familiar Disturbance",
+  },
+  [41922] = {
+    ["D"] = "I could have never imagined it. For so long we have lived with the thought of us being the only draenei to have survived the breaking of our homeworld. To think that another tribe has managed to escape to your world as well… <class>, we must get in contact with them. You may be a stranger to the Moro'gai, but you are acquainted with another draenei tribe, so I place my trust in you. Take this crystal and bring it to their chieftain. It is a projection crystal in which I have stored my image into. Tell them that, and they will know how to proceed.",
+    ["O"] = "Bring Elder Krasheen's projection crystal to Sanv K'la in the Harborage in the Swamp of Sorrows.",
+    ["T"] = "Homecoming",
+  },
+  [41923] = "Stone of Dreams, Ashenvale",
+  [41924] = "Stone of Dreams, Feralas",
+  [41925] = "Stone of Dreams, Duskwood",
+  [41926] = "Stone of Dreams, Hinterlands",
+  [41927] = {
+    ["D"] = "<In your hands is the riding whistle of Lord Blackwald II, leader of Medivh’s relic hunters. The darkness coming from the object is still strong and potent, and you don’t see a way to dispel it. Maybe the ghostly residents of Morgan’s Plot can assist you.>",
+    ["O"] = "Bring the Riding Whistle to the ghost at Morgan’s Plot in Deadwind Pass.",
+    ["T"] = "Lord Blackwald II’s Riding Whistle",
+  },
+  [41928] = {
+    ["D"] = "<The Crypt Lord lies dead to your feet. The fiend from the icy depths of Northrend will no longer spread terror among the living. What you hold in your hands, however, does not bode well to your experienced adventurer senses. The stone tablet is freezing to the touch and hushed whispers can be heard from within. Alone you are unable to shatter it and diffuse its evil aura. A mighty wielder of the Light may help you in your time of need.>",
+    ["O"] = "Deliver the Crypt Lord’s Beckoning to a powerful wielder of the Light.",
+    ["T"] = "Crypt Lord’s Beckoning",
+  },
+  [41929] = {
+    ["D"] = "<The piece of obsidian you hold in your hand is hot to the touch. Light violet strands of energy exude from the cracks where it broke from the creature lying in front of you. This crystal is bursting at the seams with potent arcane power. The endless possibilities of what you could achieve with this item rush through your mind, before a faint whispering voice enters your mind. Unintelligible at first, its volume increases the closer you hold it to your head. Now able to recognize the voice it repeats one word over and over again: Desolace.>",
+    ["O"] = "Find the location the shard is pulling you towards. Your mind tells you to seek the dark energies of profane areas.",
+    ["T"] = "Bursting Mana Shard",
+  },
+  [41930] = {
+    ["D"] = "You stand before Narkogg the Dark, speaker of the remaining Timbermaw of Ursolan. My brethren and I are splintered and on the brink of extinction. Darkness has befallen Timbermaw Hold and we are powerless in front of the wave of corruption seeping out of its gates. If we ever wish to rid it off its muck, then allies are what we desperately need. Will you and your kind be the ones to aid us in our endeavour? For that I need proof. Enter the tunnels of our old home and break through the gateway. Slay Karrsh the Sentinel; once a proud defender, now a maddened savage seeking nothing but blood. His rampage needs to be stopped.",
+    ["O"] = "Present Narkogg the Dark in the Maw of Ursoc in Azshara with proof of slaying Karrsh the Sentinel in Timbermaw Hold.",
+    ["T"] = "Proof of Conviction",
+  },
+  [41931] = {
+    ["D"] = "Our vigil over the Wilds was always ancient, but ever since the second invasion of the Burning Legion, a foul sickness has been germinating within our most hallowed sanctum. Our tribesmen succumbed to the vile influence, one after another. Now only we remain and it falls to us to liberate Timbermaw Hold from the clutches of evil. Before we can cleanse our home for good, we first need to understand what we are dealing with. Studying it inside the caverns is far too dangerous, so we need a substitute instead. Return to Timbermaw Hold and gather the totems of the misguided shaman, with them we can find a way to battle the ailment plaguing my people.",
+    ["O"] = "Collect Withermaw Totems from Withermaw Shaman inside Timbermaw Hold and bring them to Narkogg the Dark in the Maw of Ursoc in Azshara.",
+    ["T"] = "The Corruption of Timbermaw Hold",
+  },
+  [41932] = {
+    ["D"] = "Over the millennia that we have lived on Kalimdor, my people developed countless concoctions and salves for medicinal and spiritual healing. However, to cleanse these wicked totems, a wholly new mixture has to be created. In the lands blessed by the wilds, the place your kind calls Un’goro Crater, a beast by the name of Nemasra, laden with natural energies and powerful dew, resides. Rumor has it the river’s end in the northwest is its home. Bring me its dewladen heart. On the southern shores of the Isle of Dread in Feralas you will find a primordial being, a sea giant from olden times. He held watch over the tides of the Veiled Sea, but has reached a point where his mind can’t discern between friend or foe anymore. Lay him to rest and deliver me his tongue. The Vials of Purification lay with Tidelord Rrurgaz. Once a relic of the night elves on ancient Kalimdor, it fell into the hands of the Shahraz naga who scheme on Alcaz Island, northeast of the shores of Dustwallow Marsh.",
+    ["O"] = "Narkogg the Dark in the Maw of Ursoc in Azshara requires specific materials for the purification salve. Bring them to him.",
+    ["T"] = "Ancient Furbolg Remedies",
+  },
+  [41933] = {
+    ["D"] = "It seems I underestimated the Withermaw. Whatever has taken hold in these totems is not only of demonic origin. I fear what we have is not enough to break the curse put on them. <name>, if we want to succeed, we need to venture into Timbermaw Hold once more. Deep within Timbermaw Village, the Grotto of Dreams lies. Formerly used by our spiritualists for communion with the Emerald Dream, it now houses a sinister miasma. When we fled our old home, I abandonded my medicine pouch there. I need the implement found within to conjure a more fitting spell. Furthermore, a sample of the defilement found within Timbermaw Hold. Mixed into the salve, it will act as an antidote to the malediction inside the totems, if you will. Certainly you will find such a sample inside the many crevices found along the waterways inside.",
+    ["O"] = "Retrieve Narkogg’s Medicine Pouch and the Putrid Flower from within Timbermaw Hold for Narkogg the Dark in the Maw of Ursoc in Azshara.",
+    ["T"] = "Unbridled Darkness",
+  },
+  [41934] = {
+    ["D"] = "<name>, your loyalty and determination to our cause knows no bounds. With remarkable bravery have you faced the twisted Withermaw and stopped their machinations. The strength and willpower you and your allies displayed is exactly why it is you that I will ask of the impossible. As I explained to you before, Timbermaw Hold is a sacred site for all Furbolgs. It is where we venerate the remains of the Wild God Ursol, which we have guarded for millenia since his fall at the hands of the Burning Legion during the War of the Ancient. I was not present at his resting place when the Withermaw took over, yet I fear the body of the ancient guardian fell victim to the corruption. Courageous ally of ours, please return to Timbermaw Hold and see what has become of our great god. Should the foulness have taken control of his carcass, then… Gather your might and let him return to the Emerald Dream once more.",
+    ["O"] = "Slay Ursol in Timbermaw Hold. Report to Narkogg the Dark in the Maw of Ursoc in Azshara afterwards.",
+    ["T"] = "What Remains",
+  },
+  [41935] = {
+    ["D"] = "The tablet you find emanates with ancient power. Drenched in an imposing aura, you surmise it must be a relic from bygone times that somehow found its way into the clutches of Majordomo Executus. Reading its contents, runes and markings can be found describing a powerful resurrection spell for ageless beings. All that is needed is the recital of its lines and the essence of whatever being you wish to anchor once more into the mortal world. Still driven by the thrill of adventure and pillaging, you wonder if you could use this artifact for your own personal gains…",
+    ["O"] = "Find a use for the Rite of Resurrection. The ageless beings mentioned could very well be the mighty dragons roaming Azeroth.",
+    ["T"] = "Rite of Resurrection",
+  },
+  [41936] = {
+    ["D"] = "The crystal humms in an ominous rhythm. Peering through its flawless surface, it's as if a vortex of swirling energies reside inside the gemstone. Icecold to the touch and surprisingly heavy, you can feel a dark and terrifying power beckoning from beyond wherever this endless void is leading. Enthralled and shocked at the same time, you decide to bring it to a powerful warlock who might be able to help you with it.",
+    ["O"] = "Deliver the crystal to a powerful warlock.",
+    ["T"] = "Twisting Rift Crystal",
+  },
+  [41937] = {
+    ["D"] = "The demigod Ursol has been slain, the pendant in your hand acting as proof of your and your allies’ deed. Curious enough, there seems to be no trace of the Nightmare’s influence on the pristine jade stone you’ve found on the wild god’s body. Losing yourself in the stone’s hum, you see a bear’s silhouette in the woods of the tranquil Moonglade before you.",
+    ["O"] = "Deliver the Pendant of Dreams to the Great Bear Spirit in Moonglade.",
+    ["T"] = "Nightmare’s End",
+  },
+  [41938] = {
+    ["D"] = "The stone has writings on its surface that you cannot decipher. Perhaps someone from the Earthen Ring proficient in this language can assist you.",
+    ["O"] = "Bring the stone to the Earthen Ring in the Stonetalon Mountains.",
+    ["T"] = "Windtorn Crest Stone",
+  },
+  [41939] = {
+    ["D"] = "Apologies, I said I could read a few passages, but even then it is fairly cryptic. It speaks of an order, the order to attack the meddling mortals. You found this on one of the invading air elementals? Greka told me about what had happened while most of our members were gone. It appears this was no mere coincidence, but a coordinated attack utilizing a moment of weakness in our defenses. Further down, it states the following: ”I will wait for your return in the windswept canyon of the countless spires. Our horned allies expect nothing but success.” <name>, this paints a grim picture. There are more forces at hand plotting against the Earthen Ring and I fear I might as well know who these “horned allies” are. Deep in the Thousand Needles, there is Windhorn Canyon, an ancient stone fortress that gave many tauren tribes shelter in the past. Right now, it is occupied by the Blackwind tribe, and most likely their elemental conspirators. We must stop their alliance at once.",
+    ["O"] = "Banish the elemental figurehead inside Windhorn Canyon and report back to Shovu at the Earthen Ring in the Stonetalon Mountains.",
+    ["T"] = "Vortalus’ Edict",
+  },
+  [41940] = {
+    ["D"] = "May the spirits be with you, friend. I am Grakk Windtamer, a member of the Earthen Ring. It is our duty to ensure the elemental balance of our world is not disturbed. For that, us shamans of the Earthen Ring go on pilgrimages all across Azeroth to assess said balance. The spirits have led me to the plains of the Arathi Highlands, a land ripe with ancient history of the humans, but also full of primal elemental magic. Turmoil brews beneath the surface and the guardians of the binding circles are restless. In their vigilant guard over this prison, they have lost sight of their true nature - and ravage the sacred sites of the highlands. <class>, aid me in returning them to their tranquility. Break their physical form and bring me their intact cores, so that I may soothe the raging torrents within them.",
+    ["O"] = "Bring Grakk Windtamer near the Circle of Outer Binding intact cores from each type of elemental residing at the four binding circles in the Arathi Highlands.",
+    ["T"] = "Elemental Cores",
+  },
+  [41941] = {
+    ["D"] = "Nature is chaotic, <name>. It follows no rules, no set path, no certain future. Within that chaos, life springs forth, nurtured by the elements. With earth as its sustenance, air as its breath and water as its direction, fire is both its upbringing and downfall. A blaze can be comforting, inviting, even smothering in its gentle embrace of warmth. On the other hand, the boundless flame is relentless, searching endlessly for more and more life to consume into it. The element of fire is heavily woven into the cycle of life and death, the rebirth of the old is only possible through the destructive force and nurturing kindling a flare retains. In the crater of Un'goro, deep in southern Kalimdor, such a union can be witnessed at Fire Plume Ridge. The volcano rages and destroys, while the soil finds newfound strength in everything burned. Gather samples of this volcanic soil and bring them to Rimblat Earthshatter in the Eastern Plaguelands. He will know what to do with them.",
+    ["O"] = "Firespeaker Bewali at the Earthen Ring requires you to bring Volcanic Soil from around Fire Plume Ridge in the Un'goro Crater to Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands.",
+    ["T"] = "Duality of Flame",
+  },
+  [41942] = {
+    ["D"] = "While many pilgrims returned to the Earthen Ring not long ago, I remained here. To further my research into the Plague of Undeath. Far Seer Earthfury once saw potential for a cure in our Forsaken allies, so I have made it my mission to assist him in ridding them of their rotting curse. Rayne and I already made great strides in healing the dead earth of these lands. She is a remarkable ally, and we are certain we can achieve a breakthrough in our endeavour - in many parts thanks to the soil you brought. Before we continue, however, we are in need of two key components. First, spore samples of the mushrooms growing in the Plaguewood. I am certain the undead roaming the ruins carry these on their bones. Furthermore, the sapling of a twisted tree, found in Zul'mashar. The troll city is nestled in the northern mountains. But beware, the resident trolls have also succumbed to the Plague of Undeath. Please, stay cautious out there.",
+    ["O"] = "Bring Sporeridden Bones and a Twisted Sapling to Rimblat Earthshatter at Light's Hope Chapel in the Eastern Plaguelands.",
+    ["T"] = "The Plaguewood",
+  },
+  [41943] = {
+    ["D"] = "Not far from here, in the crag desert of Desolace lie the halls of Maraudon. It is said to be the birthplace of the baneful Centaur, a hallowed place for their people and ancestors. These halls have been defiled, twisted into a noxious lair of disease and putridity. Rotting the earth and befouling the water, this sickness has taken deep roots in the cavern system underneath and caused a tremendous amount of pain to the spirits and nature. <name>, I want you to enter Maraudon and destroy the corruption’s amalgamation, named Noxxion. Once it has been dealt with, vanquish the source of the misery, the baleful satyr Lord Vyletongue. As long as his reign is undeterred, balance cannot return to the elements inside Maraudon.",
+    ["O"] = "Cleanse the corruptive waters and its source inside of Maraudon and return to Ohona Riverbend at the Earthen Ring in the Stonetalon Mountains.",
+    ["T"] = "Foul Waters",
+  },
+  [41944] = {
+    ["D"] = "We are isolated on this island, the Fallen Ones lurking in the thicket of the woods, ready to strike at our unsuspecting hunters. Only the veteran hunters were successful in securing game, while the less experienced returned with griveous wounds. Still, it is not enough. The people starve, as we cannot survive from the little fruit and fish we have. If you have a good heart and wish to help us, our cook Rem'sai would appreciate new supplies of meat from the animals of this coast. You can find him in his hut near the market place.",
+    ["O"] = "Deliver meat to Cook Rem'sai in Moro'gai Village.",
+    ["T"] = "The Long Hunt",
+  },
+  [41945] = {
+    ["D"] = "All this riffraff! To think an imbecile like Bhu’robi is the cause for all this chaos. He was always a nuisance, radical ideas and delusional aspirations walked hand in hand with this fool of a man! You would assume our chieftain would have realized this sooner, but he got blinded by his feelings of compassion to his ‘old friend’. Pah, to the nether with it I say. Bhu’robi is no longer a Draenei in my eyes, let alone a Moro’gai. Parash’ka! You made me ramble on about this again! Now my blood is boiling and my head is ready to burst. I will have you remedy this, scoundrel! Go to the Lunarclaw Den east of the village and bring me some brains of the featherfolk around there. I want only the gooiest you can find!",
+    ["O"] = "Fena Ma’dar in Moro’gai Village wants Lunarclaw brains to help with her headache.",
+    ["T"] = "Respect the Elderly",
+  },
+  [41946] = {
+    ["D"] = "Everything is broken! Everything is trampled! These treacherous Fallen Ones keep pillaging the only farm we have, and I am all alone out here. Barely could I escape with my life during the last raid, but with the injury to my leg, I doubt I will be that lucky again. Parash’ka, I fear they might come back again soon and without help, my farm and I will perish at their hands! Please, help me!",
+    ["O"] = "Defend Farmer Denphar from the pillaging draenei!",
+    ["T"] = "Farm Raiders",
+  },
+  [41947] = {
+    ["D"] = "Wanted: Tama’an the Ruthless A bounty has been set on Tama’an, a vile brute of the Fallen Ones that slaughtered many of his own kin without mercy. He was last seen pillaging a well of the Tauren people in the fields to the northwest. End his terror and bring his necklace to Chief Defender Hamaam as proof.",
+    ["O"] = "Kill Tama’an the Ruthless and bring his necklace to Chief Defender Hamaam in Moro’gai Village.",
+    ["T"] = "Wanted: Tama’an the Ruthless",
+  },
+  [41948] = {
+    ["D"] = "Wanted: Growlpaw A bounty has been set on Growlpaw, one of the bearfolk to the south. Growlpaw has been coordinating attacks on our supply carts and terrorizing the roads south of the village. Maghan has seen him transporting the loot to their village in the far south. Recover the wares and deliver his paw as proof of his demise to Chief Defender Hamaam.",
+    ["O"] = "Return with the paw of Growlpaw and the stolen wares to Chief Defender Hamaam in Moro’gai Village.",
+    ["T"] = "Wanted: Growlpaw",
+  },
+  [41949] = {
+    ["D"] = "Moro’gai K’la informed me of the developments concerning the fiendish Fallen Ones. Revolting to think they’d ally themselves with these demon-looking beasts against their own kind! Parash’ka, the time for retribution has come. My chieftain may have found his original vigor, but he is still all too forgiving. Fortunately for him and the tribe, I am the cruel hand that he needs. Seek out the demonic Foulheart hiding in these lands and bring me their horns as proof. The Moro’gai will instill fear in their rotten hearts, for their death will be painful.",
+    ["O"] = "Deliver Foulheart Horns to Chief Defender Hamaam in Moro’gai Village.",
+    ["T"] = "Horns of their Allies",
+  },
+  [41950] = {
+    ["D"] = "The crate you’ve found on the satyr is heavy and resonates with a droning noise. Opening the lid exposes numerous of the dark red crystals you’ve seen around the grotto, tainted draenethyst shards filled with an unsettling energy. Riftmaster Ral’pekta should see this.",
+    ["O"] = "Return to Riftmaster Ral’pekta in Moro’gai Village with the crystal crate from Foulheart Sanctum.",
+    ["T"] = "Parcel to Nowhere",
+  },
+  [41951] = {
+    ["D"] = "Excuse my outburst. I’ve tended to the crystals throughout all of my five hundred and twenty-seven years, my connection to them is deeper than most draenei out there. Nevertheless, there is a most peculiar thing about these crystals. They are packed inside a crate, a situation that appears strange given the fact the tained draenethyst was all around the demonic fiends inside that canyon. Which leads me to believe that these crystals were destined to be delivered somewhere. Here, take the crate and talk to Maghan, our resident merchant. I am sure he will know more about the crate. He traveled south of the village, just follow along the road and I am sure you will find him eventually.",
+    ["O"] = "Talk with Maghan the merchant south of Moro’gai Village about the crystal crate.",
+    ["T"] = "Merchant’s Knowledge",
+  },
+  [41952] = {
+    ["D"] = "The crates belong to the bearfolk just across the road, the way the wood of the crate is bent is typical for them. When we were still actively trading I inspected the crates regularly, so I am sure it has to be theirs. Trade between us may have stopped now, but there is still activity coming from their fortifications over there. Whenever I traverse these roads, I sometimes get a glimpse of a burly bearfolk going further south and towards that cave up the hill. If you want to get to the bottom of this, your best chance would be to see what they’re carrying.",
+    ["O"] = "Pursue the Blackroot Runners and bring their cargo to Riftmaster Ral’pekta in Moro’gai Village.",
+    ["T"] = "Out of the Moonlight",
+  },
+  [41953] = {
+    ["D"] = "Whatever the bearfolk intend on accomplishing with the tainted draenethyst, we cannot let it happen. It shall not be misused for nefarious reasons, and as Draenei, it is our duty to ensure it stays that way. <name>, we need your aid once more. Gather brave allies and storm the bearfolk’s sanctuary. Beware: It is very likely for them to conduct sinister rituals with our crystals, from which they mayhaps acquired unforeseen strength. Once you have found the whereabouts of the defiled crystals, punish the perpetrators and return with the remaining draenethyst back to the village. I will prepare a method to cleanse them of their impurities.",
+    ["O"] = "Enter Timbermaw Hold and retrieve the corrupted draenethyst. Bring them to Riftmaster Ral’pekta in Moro’gai Village of Moonwhisper Coast if you are successful.",
+    ["T"] = "Draenethyst Recovery",
+  },
+  [41954] = {
+    ["D"] = "I have heard a lot about the craftsmen of your world. They bend stone, smelt ores and weave fabric imbued by the moon’s light to create powerful armor and weaponry. Still, they are but a child’s first attempt at crafting when compared to the legacy of Draenei craftsmanship. Centuries of wisdom passed down through generations, guarded by the best of the best in their field. If you are eager, interested and brave enough to wish to learn from me, display to me your finest works and I shall judge your potential.",
+    ["O"] = "Deliver crafted leather armor to Master Craftsman T’kalpa in Moro’gai Village.",
+    ["T"] = "Skills of an Unknown World",
+  },
+  [41955] = {
+    ["D"] = "In this world live three-headed beasts called Hydra, creatures you surely have encountered plentiful on your journey. Their hide possesses innate magical quantities; magic we can foster and heighten with our ancient draenei technique. I will share with you on how to craft a powerful set of armor with these hides after you bring me leather from those beasts and the hides of three legendary hydra hiding in your world. Take this note with you. The elders helped me locate them not long ago, but in our current situation I cannot leave the village. Best of luck out there, Parash’ka.",
+    ["O"] = "Collect Hydra Leather and the three legendary hydra hides. You can gather Hydra Leather by skinning powerful hydra.",
+    ["T"] = "Tricolored Hide-ra",
+  },
+  [41956] = {
+    ["D"] = "Greetings, <class>. My name is Nathok of the Timbermaw Tribe. Or atleast what’s left of it. We have been expelled from our ancestral home, Timbermaw Hold, by our fallen brethren, the Withermaw. They befell a terrible darkness, one that crawled throughout northern Kalimdor for an insurmountable time now. Many have succumbed to it already, yet others still continue to fight against it. Long beforehand, the furbolg tribes were in steady communication with one another. However, now they’ve gone silent and we suspect the worst. We need to know which tribes are still yet free, and I would appreciate your aid. From the ones we know of, we place the last of our hope on the Winterfall of Winterspring, the Greenpaw of Ashenvale and a small enclave of other Timbermaw furbolgs in the tunnels south of Moonglade. Seek them out and let them know that the Timbermaw still stand as proud defenders of nature.",
+    ["O"] = "Locate the Furbolg tribes of Greenpaw, Winterfall and Timbermaw. Return to Nathok in the Maw of Ursoc in Azshara after finding all three.",
+    ["T"] = "Not Alone",
+  },
+  [41957] = {
+    ["D"] = "We’re working tirelessly on ridding Timbermaw of the corruption, and your efforts are no doubt invaluable, yet still there is little progress in our mission. Instead of removing the dark influence, we are merely halting it spreading further through the hold. There has to be something we are missing, a crucial component we need to address if we want Timbermaw Hold to return to the welcoming home it once was. The Timbermaw of the Timbermaw Tunnels between Moonglade, Felwood and Winterspring told us how you were instrumental in eliminating the source of the Winterfall’s corruption, a demon named Xandivious. Let us convide in them and hope they have a clue on what could plague Timbermaw Hold still.",
+    ["O"] = "Speak with Gorn One Eye in the Timbermaw Tunnels south of Moonglade about the persisting darkness inside Timbermaw Hold.",
+    ["T"] = "The Root of it All",
+  },
+  [41958] = {
+    ["D"] = "Our brothers of Ursolan shared their findings with us not long ago, creating a holy salve to cleanse the corruption inside Timbermaw Hold is a wise decision. But it is not enough. Hidden deep inside is the true cause for the miasma taking hold over Kalimdor, yet we do not know what exactly it may be. The demon Xandivious was responsible for the Winterfall’s corruption, yet Narkogg described the sensation coming from the corruption as something not entirely demonic. I have a hunch on how we could get closer to the solution to this enigma, but for that, we need help. <class>, consult Ysera’s Dragonflight. Not many of them are friendly to us, but some of them are willing to lend an ear to a mortal in need. Past the Great Sea, in the Swamp of Sorrows, a powerful green dragon has awoken from their Dream and awaits mortals like you and me. Perhaps it is for a different reason, but it very well may be for this purpose. Seek them out and ask them about the Flute of Spirits.",
+    ["O"] = "Search for a cooperative green dragon in the Swamp of Sorrows and ask them about the Flute of Spirit.",
+    ["T"] = "Emerald Aid",
+  },
+  [41959] = {
+    ["D"] = "You aim to rid Timbermaw Hold of its darkness, I take it? Your and my interests align more than you’d think. It is in my best interest to have it be cleansed of its corruption and I know that I can be crucial in your quest to uncover the cause of it all. Your furbolg friend was correct in his assumption: I do know about the Flute of Spirits. It is an ancient relic of the Wild God Aessina herself. The Kaldorei have entrusted Ysera’s Dragonflight with the relic at the advent of the War of the Ancients. There it lay for countless millennia, until the traitor Insomnius stole it. He was banished for his transgression, the flute lost forever. If you wish to claim it, you have to find Insomnius. Luckily for you, the cunning wretch is hard to kill. He goes by the name of Insom’ni now. His delusions were an insult to our noble task of shepherding this world, yet all he strives towards is ruling it like a false deity. You will find him on the isle north of Gilijim’s Isle.",
+    ["O"] = "Find the green dragon traitor Insomnius. Itharius mentioned he resides now on the island north of Gilijim’s Isle.",
+    ["T"] = "The Flute of Spirits",
+  },
+  [41960] = {
+    ["D"] = "Itharius did not lie. The instrument you seek is lost. Do not panic, mortal. I know where you can find it, but I am not as altruistic as you had hoped for. The information shall be yours, if you are willing to serve me. When the pathetic Hazzuli dared to question my irrefutable right to rule over them, there was one worm of a troll instrumental in their conquest against me. Self proclaimed High Speaker Jam’wahli; his words infested the minds of my minions and rallied them against me. Now the rat has fled Lapidis Isle and hides in the temple city of Zul’Gurub, bowing before another god like the dog that he is. Bring me his tusks and I shall tell you where to find the flute.",
+    ["O"] = "Infiltrate Zul’Gurub and return with High Speaker Jam’wahli’s Tusks to Insom’ni on Kazon Island near Gilijim’s Isle.",
+    ["T"] = "One Good Turn Deserves Another",
+  },
+  [41961] = {
+    ["D"] = "That felt invigorating. I am in your debt, <class>, and that debt I will repay. In my search for susceptible races to subdue I wandered the vast planes of this world. One of them being the fields of the now barren wasteland Desolace. Regrettably I wasn’t being left to my own devices, as Ysera’s pests followed me whenever they picked up my scent. They were after me in hopes of retrieving the flute. What a futile endeavor of theirs. While escaping my pursuers, I placed the flute inside a magically sealed chest deep within Kaldorei ruins in the southwestern mountains, veiling it in a potent shield, masking it from unworthy eyes. <As Insom’ni grabs your hand, his own transforms into an emerald claw. With it, he carves a verdant rune into your palm. The pain is excruciating.> Now go. My patience nears its end. With this rune, you will be able to see and open the chest and retrieve what you have fought for.",
+    ["O"] = "Retrieve the Flute of Spirits and bring it to Gorn One Eye in the Timbermaw Tunnels south of Moonglade.",
+    ["T"] = "Hidden in Plain Sight",
+  },
+  [41962] = {
+    ["D"] = "While you were gone looking for the flute, I did my own research. I convened with Narkogg in the Maw of Ursoc and we devised a plan on how to unfold the corruption’s secrets. On the island on which the Kaldorei planted the World Tree Teldrassil, an Ancient of remarkable age has rooted himself into the earth of Azeroth, Fangorn, Lord of Eternity. He stood there for eons on his everlasting watch over nature, even after the Night Elves planted the seed of Teldrassil. Someone as old and wise as him will hopefully be able to tell us what darkness resides within Timbermaw Hold. Take this sealed totem with you. Awaken the Ancient with the Flute of Spirits and show him the totem. Before you go, there is one thing you should know. An ancient being such as him speaks a language long forgotten. You will surely not understand his words. I suggest you speak to the druids of Moonglade to learn his language.",
+    ["O"] = "Speak to the ancient Fangorn at the coast of Teldrassil. To understand his cryptic speech, inquire with the Druids of Moonglade.",
+    ["T"] = "Fangorn, Lord of Eternity",
+  },
+  [41963] = "Wisdom of Ten Thousand Years",
+  [41964] = {
+    ["D"] = "Fangorn’s words still ring inside your head. The ruined city of Elun’aran on Tyrandas, and the cavern system below its temple. You can feel the conclusion to this journey drawing closer.",
+    ["O"] = "Travel to Moonwhisper Coast and explore the caverns below the Temple of Elunaris on the island of Tyrandas. Return with your findings to Gorn One Eye in the Timbermaw Tunnels south of Moonglade.",
+    ["T"] = "Buried in Ancient Ruins",
+  },
+  [41965] = {
+    ["D"] = "Do you remember the torch I crafted to expunge the demon Xandivious out of the Winterfall Chieftain’s cave? If we want to draw out that despicable monster Peroth’arn out of hiding, then we will need such a torch again, but immensely more powerful. For that, a purging flame is required. Deep beneath the earth’s crust lies the Molten Core. Magma rivers and scalding stone fill the caverns, while fiery elementals spread chaos among themselves. In this place, a flame of greatest purity can be found. Only a blaze of that intensity will be enough to ensure our plan is a success. Bring it and twenty logs of Star Wood to me. Both are necessary to create a strong enough torch.",
+    ["O"] = "To craft the cleansing torch, Gorn One Eye in the Timbermaw Tunnels south of Moonglade needs a Purging Flame and Star Woods logs.",
+    ["T"] = "Purging Flames",
+  },
+  [41966] = {
+    ["D"] = "Quickly, there is little time to lose. Take the torch, gather your strongest allies and return to Timbermaw Hold. In the innermost sanctum of our god Ursol, place the illuminating beacon in the middle and ready yourself. This demon possesses power beyond your imagination and you should respect his cruelty and cunning. Obliterate this evil from Azeroth and the Emerald Dream! This world does not belong to a vile monster such as him!",
+    ["O"] = "Enter Timbermaw Hold and destroy Peroth’arn. Return to Narkogg the Dark in the Maw of Ursoc in Azshara after you have cleansed the corruption plagueing Kalimdor!",
+    ["T"] = "Peroth’arn, Nightmare’s Herald",
+  },
+  [41967] = {
+    ["D"] = "Our tribe once sought the safety of Windhorn Canyon for protection against the ravages of Kalimdor. Now that we have been expelled, we are subject to the dangers that lurk all around. I must ask you for assistance with the local wildlife. If the Windhorn tribe is to survive, then we need to cull that which skulks all around. More specifically, the local Hyena and Cougars that prowl when the nights grow cold. Slay them, and return when you are done.",
+    ["O"] = "Slay 6 Needles Cougars and 8 Pesterhide Hyena for Brolan Windhorn at Sagh's Refuge in Thousand Needles.",
+    ["T"] = "The Need to Survive",
+  },
+  [41968] = {
+    ["D"] = "You there, I am looking for some assistance in gathering some rare materials here in Moonwhisper Coast. You see, someone with a name as prestigious as my own should differentiate themselves. The Moonshade Kodo have an alluring defect in some of their offspring, one that makes their horns tough and extremely hard. It is this very horn that I wish to utilize and have fashioned into armor. Hunt down the local kodo, I will require three Tough Moonshade Horns, gather them for me, and I will be sure you are rewarded well.",
+    ["O"] = "Gather 3 Tough Moonshade Horns from the local kodo for Bulrok Cloudhoof at Moonhorn Retreat in Moonwhisper Coast.",
+    ["T"] = "Worthy of Cloudhoof",
+  },
+  [41969] = {
+    ["D"] = "Why hello traveler, I am Erna, and I am responsible for much of the garments of Moonhoof Retreat. More specifically, I have been tasked to create an elaborate set of Raiments for Elder Starstrider, as his current pair are growing considerably in age. I would like to out-do my predecessor, and make something a bit more elaborate. I am in need of someone who can afford to leave Moonwhisper Coast in my stead, and travel to the fiery lands known as the Burning Steppes. I have heard tales of an exotic Ember Worg Fur from the local worgs, with deep shades of beige and red. If you are looking for work, I will require six bundles of fur, and shall pay handsomely for the travel.",
+    ["O"] = "Bring 6 Ember Worg Fur from the Ember Worgs of Burning Steppes for Erna at Moonhoof Retreat in Moonwhisper Coast",
+    ["T"] = "Raiments of Ritual",
+  },
+  [41970] = {
+    ["D"] = "It has been weeks since we have heard word from Moonhoof Village, the flow of celebrators seems to have slowed to a crawl. Our worst fears may have been realized. The very plains of Moonwhisper Coast have become too dangerous even for travel. I need you to investigate what has happened. Three caravans were expected, and none have arrived. Please, check the road from here and to the southeast towards Moonhoof Village, find the caravans, and return to me once you have found the truth. I do also know that one caravan stopped at a nearby camp just off the road. Make sure to check there as well.",
+    ["O"] = "Investigate the missing caravans on the road between Moonhoof Village and Moonhoof Retreat for any signs of foul play.",
+    ["T"] = "The Missing Caravans",
+  },
+  [41972] = {
+    ["D"] = "The news of this tragedy must be brought to Moonhoof Village, to prevent others from finding a similar fate. I have prepared a letter which is enclosed with details, and have further instructions to help prepare any others who wish to attend our upcoming ceremonies. You must move with haste, and bring it to Brave Wildheart, one who oversee's the defenders located in the town.",
+    ["O"] = "Travel to Moonhoof Village and deliver Torgan's Letter to Brave Wildheart.",
+    ["T"] = "Report to Moonhoof Village",
+  },
+  [41973] = {
+    ["D"] = "Hey you, psst, bud. <The goblin looks up to you with a squirmy expression, leaning forward in an attempt to keep the conversation discreet.> You good at keeping secrets and doing some work for coin? If so, I could use the assist. I aint longing for this pumpworkin' gig, all hours and no pay. My buddy said this would be liquid gold, and now I'm stuck here being antagonized by Nokrot. There's a tauren up in Moonwhisper Coast in a little camp called Moonhoof Retreat, somewhere in the northern part of the region. Go there, bring him this letter, and do what he says, easy yeah? He goes by the name Gordnak, a good mercenary type, has an eyepatch, you can't miss him.",
+    ["O"] = "Find the mercenary named Gordnak for Pumpworker Zalwan located at Moonhoof Retreat, somewhere in northern Moonwhisper Coast and deliver him Zalwan's Request.",
+    ["T"] = "Contracts in Moonwhisper Coast",
+  },
+  [41974] = {
+    ["D"] = "I came to Moonwhisper Coast in search of some profit. I have a contact who is interested in a somewhat unusual material. For what, I am not certain, and I am not one to ask. The Whispering Shores to the north are filled with large beasts known as Whispering Hydra. The beasts seem to roam aimlessly, and some are known to have enchanted scales from the depths of which they came. My employer is seeking a Glimmering Hydra Scale from one of them. I do not think I am strong enough to best the creatures, but if you can find this scale, I will be sure to cut you in on the profits.",
+    ["O"] = "Gather a Glimmering Hydra Scale from the creatures along the Whispering Shore for Gordnak at Moonhoof Retreat in Moonwhisper Coast.",
+    ["T"] = "Glimmering Hydra Scale",
+  },
+  [41975] = {
+    ["D"] = "It is hard to admit, but without Zalwan, and your help, I would still be standing here trying to think of what to do. All that is required is to bring Zalwan his end of the pay. That little goblin has sure earned his end, for once.",
+    ["O"] = "Bring Zalwan's Cut to Pumpworker Zalwan at Tel Co. Basecamp on Tel'Abim.",
+    ["T"] = "Zalwan's Cut",
+  },
+  [41976] = {
+    ["D"] = "You there, explorer! Have you heard of the sacred canyon of the tauren, where houses are etched in rock and tunnels delve beneath the earth? If you had told me this story a few weeks ago, I would simply have laughed at you for such tales, but now I have come to find out that this story is truth! A reliable source of mine has told me about a place known as Windhorn Canyon nestled in Thousand Needles. Only recently discovered due to some battle that has taken place within. Now, as my source tells me, it is teeming with Grimtotem. Regardless of whatever evil lurks there, I wish to commission your services to return some of the relics that may linger there. Do this right, and you shall be paid appropriately!",
+    ["O"] = "Gather 8 Windhorn Relics for Tarwegg Dustbrow within Windhorn Canyon and return to him in Ironforge.",
+    ["T"] = "In Search of Tauren Relics",
+  },
+  [41977] = {
+    ["D"] = "I spent the majority of my life with the Windhorn Tribe, and came to respect and value their traditions. With the pillaging of Windhorn Canyon by the Grimtotem, I fear that the history and culture of the Windhorn may fall into obscurity. When I fled Windhorn Canyon during the raid the only thing that was on my mind was survival. Now I regret not bringing any of the precious relics that dwell in the city into safety. It will only be a matter of time until they are all destroyed, or lost to time. I ask of you to brave the Windhorn Canyon. Recover any antiques that you may find inside, return them to me and you shall be rewarded.",
+    ["O"] = "Travel into the Windhorn Canyon and recover 8 Windhorn Relics for Sagh at Sagh's Refuge in Thousand Needles.",
+    ["T"] = "Relics of the Windhorn Tribe",
+  },
+  [41978] = {
+    ["D"] = "Our sacred home has been destroyed, desecrated, and now occupied by the Grimtotem and their tribe. My people were slaughtered like animals, and left to live out our lives as vagabonds with no place to call home. The pain I have felt still burns within me, and I desire our aggressors to know my pain. I ask of you to travel back to Windhorn Canyon, and bring devastation, not only to the Grimtotem, but to their people. Slaughter the villagers that now call that place home, and make our conquerors mourn as I have.",
+    ["O"] = "Slay 20 Blackwind Villagers on behalf of Malgan Windhorn at Sagh's Refuge in Thousand Needles.",
+    ["T"] = "The Wrath of Malgan",
+  },
+  [41979] = {
+    ["D"] = "My fears have been realized, these messages convey a rather serious intent. Long has there been rumors of the Deathtotem, a cult-like branch of the Grimtotem who consort with dark powers for their own nefarious gain. These letters may be a link to finding the truth. I am going to prepare a missive to our High Chieftain, only he can find the bottom of this issue. Head to Thunderbluff at once, and deliver this to him, and to him only.",
+    ["O"] = "Deliver the Longhorn Missive to Cairne Bloodhoof in Thunderbluff.",
+    ["T"] = "Rumors of the Deathtotem",
+  },
+  [41980] = {
+    ["D"] = "The Deathtotem, I am sure this is the first time you have heard of them. Their very existance is secretive, and shrouded in mystery. I desire you to speak with Rahauro. He is an adjutant to Magatha Grimtotem. You will find him at Elder Rise. Bring him my directive, and inform him you require all the possible information on the Deathtotem, and where it is that they operate.",
+    ["O"] = "Deliver Cairne's Directive to Rahauro at Elder Rise in Thunderbluff.",
+    ["T"] = "Uncovering the Rumors",
+  },
+  [41981] = {
+    ["D"] = "<Rahauro takes his time inspecting the letter, an expression of shock covers his features, all before he clears his throat in an attempt to hide his surprise.> The Deathtotem? Well, we have heard a few things. They seem to operate in the Thousand Needles, loyal to one who calls themselves a prophet, going by the name 'Stormhoof'. He has taken up residence within the Windhorn Canyon as far as we know, as we do not have any ties with this group. <Rahauro nods, assuring his claim.> Bring this information to Cairne, may it suit our Chieftain well.",
+    ["O"] = "Deliver Rahauro's information to Cairne Bloodhoof in Thunderbluff.",
+    ["T"] = "Information for Cairne",
+  },
+  [41982] = {
+    ["D"] = "It would appear that evil once again knocks at our door, and has threatened the balance of peace between the tribes. I must ask you to destroy this Deathtotem, and bring their evil to an end. The Windhorn Canyon is located within the Thousand Needles, and it is there you will find the leader of this cult. Prophet Stormhide should be slain so that his schemes may be brought to an end. Do this for the unity of the tribes, and on my behalf. Go with the strength of the spirits and bring glory to the Horde young one.",
+    ["O"] = "Slay Prophet Stormhoof, the leader of the Deathtotem within Windhorn Canyon, and return to Cairne Bloodhoof in Thunderbluff.",
+    ["T"] = "Destroy the Deathtotem",
+  },
+  [41983] = {
+    ["D"] = "Greetings, freezing stranger! How are your adventures? Do you enjoy your stay in Kaneq’nuun? We may have not much to offer, but what we do have is shared with most heartfelt hospitality. Are you by chance interested in sharing stories, us Tuskarr have many legends and folklore to share. Have you come to Kaneq’nuun to hone your fishing skills, perhaps? Then let me share with you the story of Iqa’quluk, the Moonfish! Many, many moons ago, when my belly was not as round yet, the elder encountered a mysterious fish out in the North Sea while out fishing. He was sitting in his fishing boat, during a calm moonlit night, when something glowing had emerged from within the ocean’s depth! A massive fish, flat as an ice floe and clad in beautiful white scales. The moonlight reflected on his scales in a shimmering light. As quickly as he appeared, he vanished, leaving the befuddled behind. Isn’t this such an exciting story?",
+    ["O"] = "Impress young Tonlok by catching the great Iqa’quluk in the North Sea. Return with the fish to him in Kaneq’nuun at Icepoint Rock.",
+    ["T"] = "The Great Iqa’quluk",
+  },
+  [41984] = {
+    ["D"] = "People have called me lazy before, back at home. ‘You’re a bum!’ here, ‘I’ve never seen such a slouch!’ there; hefty accusations, if you ask me. And to that I say: they’re all correct. I haven’t become a master fisher out of luck or a secret hidden talent of mine. No, I was simply bored and had nothin’ better to do. So I fished. And fished. And drank. And fished and drank some more, until 30 years had passed and now you’re standin’ before me. But you know what? I think it’s time for a lil’ vacation once in a while, whaddaya think? For that I’d need some supplies, however, but as Lady Luck appears to be in my favor, you’re already here! Here’s the deal, grab me some backup fishing rod, a new fishing pack and some booze for my lil’ trip, and I’ll toss ya this book I got from my old man, may the Light bless him. And I don’t want just any booze, only the best Darkmoon Special Reserve you can find. Got it?",
+    ["O"] = "Bring Nat Pagle in Dustwallow Marsh the requested items.",
+    ["T"] = "Restocking for Vacation",
+  },
+  [41985] = {
+    ["D"] = "Kid, I need help! Noggenfogger is planning to throw a grand party at Steamwheedle to celebrate some breakthrough in his alchemistic research or whatever, I don’t really get it myself. What I do get is that he expects me to cook up a twelve course meal for the entirety of Gadgetzan’s populace - in four days! I may have the supplies, but my trusty oven is not made for orders that large. If only my cooker was ready to go… Okay, listen. I gave the blueprints to a genius new invention in the cooking world to… <Dirge leans in closer, cuppin his mouth with his hand.> Oglethorbe Obnoticus over in Booty Bay; but don’t say that out loud! Go over there and ask him to finish the cooker I ordered. My life depends on it!",
+    ["O"] = "Get the completed cooker from Oglethorbe Obnoticus in Booty Bay and bring it to Dirge Quikcleave in Gadgetzan.",
+    ["T"] = "Don’t tell the Others",
+  },
+  [41986] = "Oglethorbe’s Scientific Hunger",
+  [41987] = "Core of the Elements",
+  [41988] = {
+    ["D"] = "My pupil Makya ventured into the gloomy jungle of Feralas in search of a relic the Earthen Ring has been trying to secure for a long time. He located it on the Isle of Dread in the bay bordering the Veiled Sea. The mission is dangerous, and the spirits haven’t answered my questions about Makya’s whereabouts yet. Would you be so kind as to check on his well-being? His intention was to anchor at the northern shore of the island, near elven ruins.",
+    ["O"] = "Find Makya Hillmoon on the Isle of Dread in Feralas.",
+    ["T"] = "Dreadful Worries",
+  },
+  [41989] = {
+    ["D"] = "I have followed the trails of an ancient elemental relic, the Idol of Neptulon, all the way to these ruins, only to find them overrun by naga. These slithering fiends aren’t known to be caring or well-intentioned so it is possible they are here for the same reason as we are. My skills in combat are limited and not as strong as I hope they’d be, so I really appreciate your presence here. I believe your strength may be just enough to secure the relic in time before the naga return to their watery home with it. According to my information, it should lie within the cave just past these ruins. Good luck out there, I’ll be here if you need me.",
+    ["O"] = "Retrieve the Idol of Neptulon for Makya Hillmoon on the Isle of Dread in Feralas.",
+    ["T"] = "Slithering Snakes",
+  },
+  [41990] = {
+    ["D"] = "I swear he did that on purpose! That slimy little human is nothing more than a bratty runt who knows nothing of true honor. While I’m out here facing these… These horrible specters, he is “gathering information” in the draenei village. As if! All he does is stuff himself with whatever food they have to offer. But I’ll show him, or rather we will show him that we can do this without any issues… probably. My companions and I came to these shores for many reasons, one of them seeking new sources of treasure and gold. The Moro’gai have told us that these ruins are filled with relics and other valuables. Our gold is always running short, so they could be a great source of income for us. Will you help me?",
+    ["O"] = "Collect Maras’ethil Relics in the ruins of Maras’ethil and return to Olgra just outside the ruins.",
+    ["T"] = "Phasmophobia",
+  },
+  [41991] = {
+    ["D"] = "Bah, this is taking longer than I expected. I had hoped I would be completed with my den by now, but there have been many holdups. I have been unable to build a stockpile of food, and I am familiar with the gnawing hunger of the hibernation season. I cannot hunt or forage without risking precious time, and so I must ask you for assistance. Venture out into the wild, and gather for me eight Moonwhisper Berry. They can be found from the local wildlife, or from the bushes beneath trees.",
+    ["O"] = "Gather 8 Moonwhisper Berrys for Kralt the Forgotten on the north side of Moonwhisper Coast near the shore at his den.",
+    ["T"] = "Preparation for Hibernation",
+  },
+  [41992] = {
+    ["D"] = "Many things were lost when our people were forced out of the cradle that nurtured us and held our fondest memories. My own sight was taken in the uproar of flames, in my foolish mind, I believed myself far too strong to die that day. And by all means, I was right. Alas, greater things were lost than my sight, one thing in particular that I need returned. The Moonhoof are a proud people. Our pride has taken root in us ever since we were granted the warmth of all the celestial siblings. We have shown gratitude and servitude, and they have showered us in grace and gift. And so… We kept three scrolls, each a separate prayer for one of the siblings. Two of them we managed to recover as we fled. The third? Lost. And none seem willing to reclaim it, for none dare summon the wrath of the Elder. Yet you are not of our village, and so you are my only hope of seeing this scroll again. With guided steps, walk toward Riverhorn Village, and through the ruins of what once was, find that which remains. You will find",
+    ["O"] = "Return the Scroll of Lo’sho to Mhulf Nighthorn in Moonhoof Village.",
+    ["T"] = "Youngest Sibling, Always Last",
+  },
+  [41993] = {
+    ["D"] = "A trial is ahead of me, yet I wonder, is it simply I or the tribe that must face it? With empty eyes, I reach for the starry night, and I can see the Moon turning away from my voice. A steep ravine greets me, as I am forced to gently tap my hooves near its end. Terrified of falling, I must keep going. Otherwise, I cannot carry this responsibility to the end. I can no longer find An’she’s shine through squinted eyes. His light is hidden by the clouds, and I keep asking myself if it is because I shy away from action, or if the Shadewalkers are somehow keeping him from me. They haunt An’she’s Respite. Foul chants and the eerie feeling of dark rituals ache at my very soul. They must seek to twist our ancestors from their rest to serve their own lust for power and hatred. We all mourn the loss of Riverhorn, but theirs is a wrong choice. Travel north. Walk the path of my people and guide your own way. Although it pains me, they must be slain. Will you be the instrument of An’she’s justice?",
+    ["O"] = "Kill the Shadewalkers of An’she’s Respite. Return to Elder Moonhoof in Moonhoof Village once you are done.",
+    ["T"] = "Hiding in the Shade",
+  },
+  [41994] = {
+    ["D"] = "Among the Shadewalkers, there is one with a strong conviction, one who has lost her path, one who has broken the hearts of many. Perhaps it was simply due to her own heart being broken. Alas, motivation does not excuse actions, and hers are heinous. She intends to throw the rest of our ancestors into turmoil for petty vengeance. She could not understand that it is not we who must seek our own justice. By praying to Mu’sha and An’she, those who hurt us will, in turn, be hurt by them, our protectors. We must not seek bloodshed with our own hands. Nature takes its course, and all creatures will pay their due. I am not sure you understand what I mean, but you really do not have to. If you wish to prove your usefulness to me, you will travel to An’she’s Respite and put an end to her insanity.",
+    ["O"] = "Kill Matriarch Ohanzee and return to Elder Moonhoof in Moonhoof Village.",
+    ["T"] = "Shade Mother",
+  },
+  [41995] = {
+    ["D"] = "You stand tall, <name>, even when your actions are those of a mindless monster. Tell me, did you even consider questioning the tasks my father set for you? I suppose not. After all, you are nothing more than a bloodthirsty mongrel here for your own benefit. Your hands are stained with the blood of my people. Has the coward who still claims the role of chieftain told you whom he sent you to kill? Was he remorseful, even a little? No, I doubt he was. So let me tell you instead. My foolish father chose the wrong target. Instead of having you slay the Fallen Ones that set Riverhorn aflame, he made you kill his oldest friend. Begone from my face, member of the Horde. And do not return until this sin has been paid with the blood of the true villain. Find the ruins of Riverhorn to the southwest and slay the one they call Baxdi’zha. He yet skitters upon the tormented soil.",
+    ["O"] = "Kill Baxdi’zha in Riverhorn Village. Return to Moonhoof the Younger in Moonhoof Village once you are done.",
+    ["T"] = "Mindless Monster",
+  },
+  [41996] = {
+    ["D"] = "Were the politics of the village not enough to have a simple fisher like I restless, it turns out I can no longer even have a good night’s sleep. I am not sure what guided these foul slithering creatures from the depths of the water, but they sure love making themselves known. There is a ruined night elven settlement not far from here. You should be able to see it from here, from the shore. It used to be called Nendis, though I suppose we still call it so, but ruined? Regardless. Too much to think about. The song of their siren is making me restless. Each night they sing whenever Mu’sha is shining brightest in the sky. It is a mournful song, as one would sing to an estranged parent. While I find some sympathy in my heart, make it stop. I do not care if it’s by cutting their tongues or their heads. Do it, and I will reward you.",
+    ["O"] = "Silence the Tideblade Mistresses at Nendis Point and return to Fisher Rainstrider, in Moonhoof Village.",
+    ["T"] = "Siren’s Song",
+  },
+  [41997] = {
+    ["D"] = "Along the coast, to the northwest, close to An’she’s Respite and to the Ancestral Grounds, a few hydras have emerged from the bed of the ocean. They are mighty, terrifying beasts that one should not hunt alone. Well, might not be the case for such a seasoned adventurer like yourself. Which brings me to my point. I hear hydra is one of the best white meats one could ever taste. It is not a mystery I have a taste for fish. And if the occasion occurs and you do end up fighting one or two, bring me back some of the meat. I will not share it with you, but I will pay for it.",
+    ["O"] = "Hunt the Hydra for their meat and return some of it to Fisher Rainstrider in Moonhoof Village.",
+    ["T"] = "Taste for Hydra",
+  },
+  [41998] = {
+    ["D"] = "Before I managed to make my way to the Moonhoof Village, I passed through the Moro’gai one. Interesting creatures, the draenei are. They were more than open to discuss formulas, basic alchemy, and herbology. Yet whenever I took an interest in the draenethyst crystals they had, they vehemently dismissed the idea. It is quite concerning why they would do so. I am beginning to believe the crystals serve more than just any possible cultural attraction, perhaps nothing as serious as religious zealotry either. It is not unheard of for crystals to be a raw source of power. Seeing as they call it something similar to their own name, it surely harbors great importance. That being said, they will not share one with us; that is absolutely certain. Which is why I task you to bring me any Raw Draenethyst Formation. That being said, I will not return it to you.",
+    ["O"] = "Bring one Raw Draenethyst Formation to Thobias Shallowgrave in Moonhoof Village.",
+    ["T"] = "Collecting Draenethyst",
+  },
+  [41999] = {
+    ["D"] = "While most of the tribe prefers to wear the leather we managed to obtain during our hunts for both rations and general goods, some of us prefer something one could call more elegant. As a family, mine has carried the name of the material we have worked with for generations. And it is because of a lack of certain silk that can only be obtained from the moths that you and I are currently having this conversation. South of the Moro’gai Village, you will find Moonsilk Hollow. A strange beauty envelops the place these Moonsilk moths call home. It just so happens that the mating season has recently passed, and the newborn larvae should have reached the cocoon stage by now. Carefully gather some of those cocoons for me; I will raise the young well and gather their silk for the tribe from now on.",
+    ["O"] = "Gather Mothsilk Cocoons from the Moonsilk Hollow and return them to Shanni Silkhoof in Moonhoof Village.",
+    ["T"] = "Before They Hatch",
+  },
+  [42000] = {
+    ["D"] = "The Earthmother has not been kind when it came to the fate of the Highborne. Punished for the actions of their queen, the restless souls roam all around Kalimdor and Moonwhisper is no exception. In what was Maras’ethil several spirits yet remain. Bound to this place with no hope. My heart ails for them. I cannot bear the torment of their souls any longer. While there are other tasks that require me here, I would ask you to deliver these souls from their eternal prison. They have no knowledge of their death, mere spectres that must be returned to the cycle of life and death. Maras’ethil rests south of Nendis and south east of Moro’gai Village.",
+    ["O"] = "Free the spirits of Mara’sethil and return to Mhulf Nighthorn in Moonhoof Village.",
+    ["T"] = "Highborne Burden",
+  },
+  [42001] = {
+    ["D"] = "Moonwhisper is one of the few areas across all Azeroth that has a dedicated place of worship for each of the elementals. They are all marked with a shaman stone just like the one before us. Something seems to upset the balance between the elements, however, since they should not be on such heavy guard. At first, I believed it was due to the Hydraxian Waterlords being so close, but even the water is restless here. While it is surrounded by the invasion of two higher elementals, that should not be affecting them either. And even if the draenei have been toying with those crystals, I am still uncertain they would be at fault. The only other option would be the Blackroot furbolgs; it wouldn’t be below them to influence the elements in such a way. Turn south towards their village, or hold, whichever suits you better, and bring me the beads they carry. I will prepare a ritual for when you are returned.",
+    ["O"] = "Collect prayer beads from the Blackroot furbolgs and return them to Uz’tuk in Moonhoof Village.",
+    ["T"] = "What Upsets the Elements?",
+  },
+  [42002] = {
+    ["D"] = "The mass of thorny tentacles in the palm of your hand squirms and reaches out in an inexplicable manner. Further and further does it slither around your hand, embracing it with an ever tightening grip. Drawn in by the mesmerizing spectacle, you don’t realize the mass possesses an eye - and a barb which it promptly bores into your palm. Under immense pain you try to pry away the parasite, but it only digs deeper into your flesh. Quickly, it became one with you. Horrified and breathing heavily, you hear a voice inside your head. Faint at first, your glance wanders around searching for the source, but you cannot find it. In panic you gaze at your infected hand - and are met with an intense stare and the voice you just heard: “Vessel, a purpose was placed upon you. Like an insect adheres to the call of its queen, so shall you be my instrument. Enter the ruined city of Ahn’Qiraj, in the forlorn dunes of Silithus. There you shall find a blade. Bring it into your possession.”",
+    ["O"] = "Find the sword inside the Ruins of Ahn’Qiraj.",
+    ["T"] = "Writhing Eyes",
+  },
+  [42003] = {
+    ["D"] = "The price of your search is unusually unremarkable. No heft, simply a slab of an unknown metal that weighs light in your hand. You wonder what the parasite sees in this blade, and as if it can read your mind, it speaks again to enlighten you. “The blade has slumbered for eons, anticipating its awakening. Born from the chaos of your world, it yearns to be set free. To observe. To learn. To comprehend. My servant, I feel the thirst for power coursing through your body. Become a part in fulfilling the blade’s destiny and you shall be given permission to taste a fraction of its power. Seek the runes of the demons scouring your infant world. Together with the nail of a dreadlord, you shall carve the blade’s purpose into it. Both you will find in the Tainted Scar of the Blasted Lands. To accomplish that, seek the Altar of Depths in the ocean’s abyss southeast of Arkkoran’s temple in the lands you call Azshara.”",
+    ["O"] = "Bring Demonic Runes and the Nail of a Dreadlord to the Altar of Depths to give the blade its purpose.",
+    ["T"] = "The Silver Blade",
+  },
+  [42004] = {
+    ["D"] = "“With its name returned, Thil’phoral will set forth on the path it was created for. Still, it is merely a sword with a purpose, yet purpose is nothing without the power to fulfill it. The sword thirsts for blood; the blood of mighty dragons touched by the same great force it was created by. Only by being infused with such an eclectic concoction will Thil’phoral awaken from its slumber. Collect their hearts and offer them to the blade at the Altar of Depths, servant. They demand it.” The voice subsides again and leaves you to your own devices. It is now up to you to find these dragons.",
+    ["O"] = "Collect the hearts of the four dragons and deliver them to the Altar of Depths in the ocean southeast of the Temple of Arkkoran in Azshara.",
+    ["T"] = "Drenched in Power",
+  },
+  [42005] = {
+    ["D"] = "Silence fills your mind. For but a moment you think it is over, yet the pulsating mass in your hand reminds you of reality. And as quickly as that thought slipped your mind, so does the voice respond - seemingly - to your own inner voice. “False hope is ill-fitted for a promising subject such as yourself. The greater forces would not relish in seeing you cling to delusions wrought by your own mind. No, there is simply one truth. A truth absolute and a truth fulfilling. Thil’phoral is bursting with power, bestowed upon it by your subservience. A last step in its path is required. A link must be tied between the blade and the rift. For it allows Thil’phoral to observe. To understand. To proclaim. Enter the dreamscape, which your kind calls Emerald Dream. Within, meet Solnius. A failed experiment of the greater forces. End his existence and take the splinter from his possessions. The last step, my servant.",
+    ["O"] = "Slay Solnius and reunite Thil’phoral with the splinter he possesses at the Vine of Aln inside the Emerald Sanctum.",
+    ["T"] = "The Rift Calls",
+  },
+  [42006] = {
+    ["D"] = "Excuse me, do you have a moment? A colleague of mine from the Explorer’s League went off following a clue on an artifact he had been researching about for a long time now. Normally I would trust him to be reasonable, but he intends to descend Frostmane Hollow, the sanctum of the savage Frost Trolls terrorizing Dun Morogh. Please, could you assemble a group of mercenaries and get that fool of a friend back? You will find the entrance to Frostmane Hollow in the mountains of Dun Morogh, very close to the Ironforge Airfields.",
+    ["O"] = "Search for Archeologist Evenpike inside Frostmane Hollow in Dun Morogh.",
+    ["T"] = "Searching for Archaeologist Evenpike",
+  },
+  [42007] = {
+    ["D"] = "Locked tight in the frozen grip of the dwarf’s corpse is the fragment of a pristine piece of metal, on which you can see a language unknown to you engraved into the surface. Seemingly worth his death, you bring it into your possession with the intent to let Caskbelly know about it and his friend’s demise.",
+    ["O"] = "Return to Brohann Caskbelly in the Dwarven District of Stormwind.",
+    ["T"] = "The Shattered Disc",
+  },
+  [42008] = {
+    ["D"] = "Ba’la dash, malanore. It has been brought to my attention that the deep caverns of Khaz Modan house a particular breed of snow leopards whose fur boasts a remarkable sheen of white. My lord, Astalor of House Sunsworn, requested a one-of-a-kind mantle for his upcoming dinner party and I intend to combine said white fur with the most pristine brocade cloth I have in my possession. Adventurer, would you be interested in a job of the lucrative kind? If you bring me an immaculate leopard pelt from within Frostmane Hollow, then I will reward you with a fine piece from my current collection. Do we come to an agreement?",
+    ["O"] = "Enter Frostmane Hollow in Dun Morogh and acquire a flawless leopard pelt for Shandlar Thethis in Alah’thalas in the Thalassian Highlands. You can find the entrance to Frostmane Hollow near the Ironforge Airfields.",
+    ["T"] = "The Finest Pelt",
+  },
+  [42009] = {
+    ["D"] = "Perhaps you have felt it yourself or encountered one of its manifestations already, but there is an infestation running rampant in the woods of Kalimdor. It infects the flora and fauna, rendering them to madness, attacking friend and foe alike. Sinister whispers hush among the spirits of nature, rallying the defenders of balance against said corruption. One of them is the noble Loktanag, the living embodiment of growth and adaptivity. They sensed a disturbance within the deep underbelly of Mount Hyjal, inside the sacred halls of Timbermaw Hold. Venturing far into the furbolg’s hallowed home, Loktanag tried to halt the spread of the miasma, yet it appears their power was not enough. Now the spirits mourn their rotting body, oozing toxic sludge and permeating the very corruption they wished to stop. <name>, I ask you to lay Loktanag to rest. A noble creature such as them should return to the cycle once more. Balance must be restored.",
+    ["O"] = "Vanquish Loktanag the Vile inside Timbermaw Hold and return to Muln Earthfury at the Earthen Ring in the Stonetalon Mountains.",
+    ["T"] = "Loktanag the Pure",
+  },
+  [42010] = {
+    ["D"] = "Ishnu’daldieb, stranger. How rare to see the living strut around in Maras’ethil. Or is my mind playing tricks on me? Excuse me, years of isolation have dulled my sense of decency. You can refer to me as Keeper N’las, that should suffice for now. You know, meeting you on this fine day might be just the solution to my problems that I was looking for. You see, this is not my primary place to live. While the view is breathtaking, my ghastly neighbours are just too brash for my liking, which is why I live further up northwest, in the mountains of this coast. Sadly my only method of transportation there suddenly went silent, much to my surprise. I can repair it, but the journey would be such a hassle and judging from your attire, you’d be way more fit for the job. Up the mountainrange, in the icy fields of Winterspring, you’ll find the Owl Wing Thicket. Deep beneath the snow lie vials, frozen in time. Bring a handful of them to me.",
+    ["O"] = "Collect Frozen Highborne Vials for Keeper N’las and deliver them to his home on the spire near Maras’ethil in Moonwhisper Coast.",
+    ["T"] = "Powerless Runestone",
+  },
+  [42011] = {
+    ["D"] = "Before I managed to make my way to the Moonhoof Village, I passed through the Moro’gai one. Interesting creatures, the draenei are. They were more than open to discuss formulas, basic alchemy, and herbology. Yet whenever I took an interest in the draenethyst crystals they had, they vehemently dismissed the idea. It is quite concerning why they would do so. I am beginning to believe the crystals serve more than just any possible cultural attraction, perhaps nothing as serious as religious zealotry either. It is not unheard of for crystals to be a raw source of power. Seeing as they call it something similar to their own name, it surely harbors great importance. That being said, they will not share one with us; that is absolutely certain. Which is why I task you to bring me any Raw Draenethyst Formation. Naturally, I will not return it to you.",
+    ["O"] = "Retrieve one Starshard from the Starshard Collectors and return it to Thobias Shallowgrave in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Collectors of Draenethyst",
+  },
+  [42012] = {
+    ["D"] = "Even this crystal is beyond my knowledge. Frustrating, yet pure bliss. I have learned that I know absolutely nothing, which, in truth, is exactly why I keep doing what I am doing. Perhaps I make little sense. But for one such as I that finds researching items and knowledge that has been unheard of so far brings a certain joy. Just as you adventure out there, I adventure inside my mind, thinking of the impossible, seeing if it is truly that impossible. Listen to me blabber, acting like some eager child who is about to take his first pony ride. Enough sentiment. I want you to take this satchel and bring it to the Moro’gai Village, which is located south of here. You will know it when you see it. Although he had refused to tell me of the crystals before, I believe this gift would perhaps loosen his tongue. So find Heghala, the Draenethyst Architect, and let him know I too am on my way to discuss what my research has bloomed.",
+    ["O"] = "Deliver Thobias’s Satchel to Heghala in Moro’gai Village, Moonwhisper Coast.",
+    ["T"] = "Actual Collector of Draenethyst",
+  },
+  [42013] = {
+    ["D"] = "We have travelled far to seek shelter with the Moonhoof Tribe. We have long called each other kin, but I was received coldly. The elder granted the audience of a beggar rather than an old friend. I am not pleased, yet I am in no position to argue. He asks for payment, for favours. He demanded that my brethren and I storm the Grove of the Moon and slay the druids there. He claims they have become aloof, odd, and far too zealous due to their belief in Lo’sho. Yet his words and mimicry prove he’s the zealous one. I have not heard any man mention An’she this much. His request is insane. We spent days arriving here from the Thousand Needles; we cannot take on an entire druid grove. You look like a seasoned adventurer. Would you travel to the Grove of the Moon, south of here past the ruins of Riverhorn Village and behind the Shrine of Cyclones, slay those druids, and offer my tribe a chance at rest and survival?",
+    ["O"] = "Slay the Druids of the Moth and Disciples of Lo’sho in the Grove of the Moon and return to Nuhlgahn Windhorn in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "The Windhorn Burden",
+  },
+  [42014] = {
+    ["D"] = "So the Windhorn chose a representative, rather than doing my bidding on their own. Clever, not exactly what I expected nor wanted, yet An’she whispers them worthy, for now. Since you have already taken their role and seek to be the pillar of their survival, I will give you your next task. A foul messenger of evil has infiltrated the barrow den of the Grove of the Moon. It is by the will of his master that he and his wretched minions have partially awoken the druids slumbering there. Now stuck in a lucid dream, they are bound to Lo’sho and the chaos he brings. Make no mistake, the evil, while demonic in nature, answers the call of the youngest celestial sibling. It goes to show how resentful and petty the youngest one has become of his eldest, Mu’sha, to subjugate and corrupt her place of worship. Travel now, back to the Grove, and reach deep into the barrow den; it is there you will find the satyr Zandaxxius and the Wretched Sprites he has summoned.",
+    ["O"] = "Slay Zandaxxius and the Wretched Sprites in the barrow den under the Grove of the Moon and return to Elder Moonhoof in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Roots of the Grove",
+  },
+  [42015] = {
+    ["D"] = "The elder refuses to allow me to venture into the Grove of the Moon, yet he sent you, or rather the Windhorn, to “deal” with it. I wonder what illusion he spoke of to you, how the druids there have gone mad due to the influence of Lo’sho. Our elder’s mind grows more wretched by the day. Many see it, many turn a blind eye. It is not our right to contest his word. He is our chieftain, and until the younger decides enough is enough, we must stay true to tradition and obey. Yet you need not do that. The grove has indeed been corrupted, but not by Lo’sho. That is merely the fantasy of an overzealous chieftain. It has been tainted by demonic forces. I have a different task. A dryad I once called friend has fallen to corruption. Lo’sho allowed me to see her one last time in my dreams. Please return to the grove and lay my friend, Landis Stargazer, to rest. If my memory still serves, she should be running through the grove.",
+    ["O"] = "Slay Landis Stargazer and return to Dhela in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Lady Stargazer",
+  },
+  [42016] = {
+    ["D"] = "Our next task awaits. Druids that were slumbering in the barrow den have been disturbed and awoken. The elder insists these druids, incapable of seeing between dream and reality, are far too unpredictable and must be dealt with. He considers them, just like the others before, corrupted by Lo’sho. I am beginning to see a pattern here, and I am coming to needlessly question the sanity of this chieftain. There were whispers, warnings; I did not care to heed them. I should have known when the audience we received was as cold as the stab of a dagger. Do not mistake the barrow den with the one outside of the grove, past the hollow tree bridge. The one you seek lies at the heart of the grove itself. In there, you will find protectors and stalkers alike, burdened by the lucid dream. Whatever the truth may be, Lo’sho or not, corruption has taken heart, and so they must be given a proper end.",
+    ["O"] = "Slay the Lucid Dream Protectors and Stalkers and return to Nuhlgahn Windhorn in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "In Lucid Dreams",
+  },
+  [42017] = {
+    ["D"] = "I am far beyond displeased to hear that I was refused an audience with the elder of Moonhoof while the Windhorn are currently still speaking to him. Thankfully Nighthorn seems to be smarter than the rotting oaf. I was able to obtain quite the information from this man. His displeasure with the elder is shared by both I and several other tribesmen, it seems. Chaos, I would often believe it follows my tribe, or rather that we end up at its core most of the time. Yet another day when it has been proven so. Enough rattle then, since I am bored of holding a monologue to a mute audience. I am the Grimtotem Envoy, and I assure you, you’d better have me as an ally rather than a foe. With that in mind I urge you to travel north, to An’she’s Respite—but do so after you speak to the elder; he may urge you to do the same. What I seek is the heart of the Shade Mother, and I have no doubt that you will provide.",
+    ["O"] = "Bring Heart of Ohanzee to Duln Ashtotem in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Heart Full of Shadows",
+  },
+  [42018] = {
+    ["D"] = "Were I to tell you that even in its physical form, while no longer attached to a body, a heart still holds power you cannot imagine, would you believe me? Perhaps not. This heart is full of spite, resentment, and unfulfilled vengeance. And you are the reason for that. I wonder how that makes you feel. While it’d be far too amusing for me to keep mocking you, I am in need of your assistance once more. I will have you return to Thunder Bluff to the Elder Rise and grant my report to our esteemed leader, Magatha Grimtotem. The heart will also serve as a gift for her, so make sure to keep it safe. You will be rewarded, of course, if you manage to keep your head, that is.",
+    ["O"] = "Report to Magatha Grimtotem in Elder Rise, Thunder Bluff, Mulgore.",
+    ["T"] = "Gifting the Matron",
+  },
+  [42019] = {
+    ["D"] = "The coast is host and home to many creatures, amongst them the most particular being the elekk. They are a rare, almost nomadic creature that would rather be in solitude than packs. That being said, they are not easy to find, nor are they easy to fight. But I confess I am working on a weapon that requires one of their mighty tusks. I suppose you understand where this is going, so I need not sing to you in a certain tune. The job is simple yet challenging. The first challenge being finding one, the other being fighting one. If you manage to bring me one of the tusks, I will reward you with one of the weapons I forged. I was not happy with either of them, but that does not make them any less reliable. What I am looking to craft is a spear, one for my younger brother. I wish I could tell you where to find an elekk, but simply keep your eyes peeled in your adventures and you might find one.",
+    ["O"] = "Bring an Elekk Tusk to Ulf Stonetotem in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "The Mighty Elekk",
+  },
+  [42020] = {
+    ["D"] = "A fine spear indeed. I am more than proud of it. I have put all my love, sweat, and passion into forging this weapon. It is the weapon my brother will carry in his battles once his training is done. This, this was my duty as his elder: to provide the means to face his ambition, and, truthfully, to face mine. Were this weapon forged with any less love, it would not have been as strong, as durable, as unique. I am curious what my brother will think of it and what name he will grant it. I have another favor to ask, of course. Will you travel to Bloodhoof Village, to the training grounds of warriors, and find Hulfnar Stonetotem? He is the brother I speak of fondly. I doubt his training is yet done, so you should more than likely find him there. Walk south of Thunder Bluff in Mulgore to reach the village. And give my brother my warm greetings.",
+    ["O"] = "Deliver the spear to Hulfnar Stonetotem in Bloodhoof Village, Mulgore.",
+    ["T"] = "Brother’s Duty",
+  },
+  [42021] = "Essence of Purification",
+  [42022] = {
+    ["D"] = "The fetid hide of Ursol is all you could rescue of the fallen god’s carcass. Torn and ridden with maggots, you decide to bring it to the furbolg of Ursolan, so that they may cleanse the only remains of their progenitor god.",
+    ["O"] = "Bring the Hide of Ursol to the furbolg of the Maw of Ursoc in Azshara.",
+    ["T"] = "Hide of a Wild God",
+  },
+  [42023] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. The ritualistic headdress grants a link to the wisdom of the natural spirits, enlightening those wearing it to make the right decisions to the betterment of all. Bring me the headdress and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic headdress from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Guile of Nature",
+  },
+  [42024] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. The ritualistic mantle is adorned with lanterns and heavy drapes hanging over the shoulders of our spiritualists. With them, they symbolically carry the burdens of our forefathers, as well as the uncertainties of the future. Bring me the mantle and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic mantle from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Burden of Nature",
+  },
+  [42025] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. The ritualistic tunic wraps itself around its wearer like a mother’s warm cradle. Just as nature offers its plentiful bounties to those cherishing and preserving it. With it, the shaman becomes one with the breath of life whispering throughout nature’s forests. Bring me the tunic and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic tunic from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Embrace of Nature",
+  },
+  [42026] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. Like the strength and resilience offered by the earth, so too do the ritualistic gloves offer nature’s protection to the wearer - much like a cooling coat of mud on a hot summer’s day or the comforting shelter of a cave during a roaring thunderstorm. Bring me the gloves and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic gloves from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Grasp of Nature",
+  },
+  [42027] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. The ritualistic leggings represent the lifeforce of nature’s verdure. Imbued with the wild’s blessings and boons, they allow our shamans to be one with the spirits and heed their calls. Bring me the leggings and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic leggings from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Vigor of Nature",
+  },
+  [42028] = {
+    ["D"] = "For many years have we furbolgs revered the gods of nature, with the Twin Gods Ursol and Ursoc at the center of our worship. To honor their sacrifices to our world, the greatest shaman of our tribe wore a spiritual garment, spirited armor said to be in tune with the Wild Gods. Now they’re lost in the tunnels of Timbermaw, either in possession of the Withermaw or their corrupted fiends. The ritualistic boots ground their wearer in our world, lending humility and modesty to the shaman’s mission of being an envoy of nature. Bring me a pair of boots and some materials, and I will fashion it anew so that it may aid you in your quest to liberate Timbermaw Hold.",
+    ["O"] = "Bring Kathor the Brave a ritualistic boots from within Timbermaw Hold as well as a myriad of materials.",
+    ["T"] = "Path of Nature",
+  },
+  [42029] = {
+    ["D"] = "Purple demon blood drips off the key onto the tainted floor of Timbermaw Hold. The dim light of the cave creates countless prismatic reflections on its surfaces, a phenomenon that appears otherworldly to you. Still, the craftsmanship of it all intrigues you, there has to be a reason Peroth’arn had kept it on him. The keyhead is adorned with intricate and filigrane embellishments, and dons a crescent moon symbol. Without any more clues, however, your discoveries won’t help you much. Perhaps it is time to return to Manor Ravenholdt and seek your old master once more.",
+    ["O"] = "Speak with the master of the assassin’s guild at Ravenholdt Manor in the Alterac Mountains.",
+    ["T"] = "A Key of Ancient Times",
+  },
+  [42030] = {
+    ["D"] = "Not long ago, infact just a couple of days, a peculiar chest was delivered to the doorstep of my manor. The chest simply appeared overnight, with nothing but a strange perfumed envelope attached to it. Evidently, the mysteries didn’t end there, but I will leave this for a later discussion. Regarding the chest itself, a crescent moon among many other intricate adornments could be found on its surface. For us folk at Ravenholdt it could only mean one thing: Whatever is inside must be of immense value. Naturally we began investigating and sent word to our informants inside Stormwind and the Undercity, from where they began scouring for any info about this enigmatic chest. Unfortunately, whatever they had found caused them to… cease cooperations. I want you to get your hands on what they found. Either pilfer it from their pockets or extort the info out of them. I am sure they have something incriminating not far from them. They go by the names of Lord Finwald and Ebenezer Dregheap.",
+    ["O"] = "Retrieve the information about the mysterious chest from Ravenholdt’s informants in Stormwind and the Undercity and bring them to Lord Jorach Ravenholdt in Ravenholdt Manor in the Alterac Mountains. If they’re unwilling to cooperate, find a way to loosen their tongue.",
+    ["T"] = "Larceny and Extortion",
+  },
+  [42031] = {
+    ["D"] = "It appears we are dealing with a reliquary from before the Sundering, the cataclysmic catastrophe following the conflict between the Night Elves and their Highborne elites ten thousand years ago. I have mentioned an envelope attached to the chest, if you remember? Inside it was a letter, delicicately written on lavender paper covered with the scent of fragrant wildflowers. Written on it were crude, fragmented facts about the accompanied chest, like the fact it does not possess any conventional lock, yet still remains closed. From what is noted here, the lock can be recreated, however… All we have is a list of tools and materials, yet no plans on how to reform the lock. Disappointing, really, but we have to play the hand we’re dealt. Your next step is to ascend the Blackwing Lair and acquire a transmutation alloy from Nefarian’s personal head alchemist and elementium ore from his goblin lackeys within.",
+    ["O"] = "Acquire the transmutation alloy and elementium ore for Lord Jorach Ravenholdt in Ravenholdt Manor in the Alterac Mountains.",
+    ["T"] = "Elementium Lock",
+  },
+  [42032] = {
+    ["D"] = "In the fortified hold of Tyr’s Hand, Crimson Friar Freidhelm teaches rotten rhetorics and principles to his fellow delusional friars. Normally I’d abstain from passing judgement on individuals when mere item recovery is at stake, yet I cannot overlook how his teachings spread a perverse iteration of the Light my wife held so dear. Infiltrate Tyr’s Hand alone and liquidate Freidhelm. With his part of the blueprints we’ll be just a tiny bit closer to unveiling this mystery.",
+    ["O"] = "Acquire the top half of the lock blueprints and return with them to Lord Jorach Ravenholdt in Ravenholdt Manor in the Alterac Mountains.",
+    ["T"] = "Lock Blueprints: Crimson Friar Freidhelm",
+  },
+  [42033] = {
+    ["D"] = "Deep beneath Blackrock Mountain, in the scalding tunnels of the Molten Core you will find Old Shadowforge. Remnants of the Dark Iron dwarves’ ancient city from which they ruled the innards of Blackrock Mountain. From what we could gather, one part of the blueprints fell into the hands of the Dark Iron several hundred years ago and withstood the test of time as well as the burning heat of the mountain’s core. Search for the blueprints in Old Shadowforge and return with it - unscathed, preferably.",
+    ["O"] = "Acquire the bottom half of the lock blueprints and return with them to Lord Jorach Ravenholdt in Ravenholdt Manor in the Alterac Mountains.",
+    ["T"] = "Lock Blueprints: Sorcerer-Thane Thaurissan",
+  },
+  [42034] = {
+    ["D"] = "Everything is assembled. The finished blueprints, the alloy and the ore. Now to have it all combined into the finished lock. Fortunately I have an old acquaintance who may be just the right person to ask for this. Even if he isn’t on the best terms with my organization anymore. Nothing a little bit of gold could solve, however. Argur Rustbrand is the exceptional blacksmith we are looking for. Last I heard he spent every waking hour of his days in the Mold Foundry of the Blackrock Depths. Here, take this box. Within you will find what we have gathered so far, as well as some gold to pay for his work. One more thing, <name>. This feisty dwarf no longer speaks to anyone that isn’t a Dark Iron dwarf themselves. I suggest you get yourself a convincing disguise, or else this deal will not work.",
+    ["O"] = "Open the chest given to you by Lord Jorach and bring its contents to Argur Rustbrand in the Blackrock Depths. Remember to disguise yourself as one of his own kin to strike a deal.",
+    ["T"] = "To Fit a Mold",
+  },
+  [42035] = {
+    ["D"] = "There you go. A masterly crafted lock worth its weight in gold. Now do with it whatever you want. I don’t really care what you plan with it and I don’t want you to tell me. Just flock off out of the foundry and leave me be, understood?!",
+    ["O"] = "Return with the lock to Lord Jorach Ravenholdt in Ravenholdt Manor in the Alterac Mountains.",
+    ["T"] = "Lock and Loaded",
+  },
+  [42036] = {
+    ["D"] = "It is time, <name>. While I am curious myself, I will let you be the one to open the chest, as compensation for all your hard work - and for bringing the key to it to us in the first place. The letter says to simply insert the lock into the indentation and unlock it with the key. You will find it upstairs in the tower of my manor. Congratulations, you have earned it.",
+    ["O"] = "Ascend the tower in Ravenholdt Manor and claim your rewards!",
+    ["T"] = "Secrets of Ten Thousand Years",
+  },
+  [42037] = {
+    ["D"] = "Blasted Frostmane! Things have been going so well until last week, those blasted trolls came and snuck in during the night. They raided our supplies, and got away with some of our most vital goods. I need you to save my hide here. If I go and request more supplies, or worse, tell them about my failure in losing these materials, they will have my stripes. Go to the south west, where the Frostmane Trolls linger, and find me the crates marked with the Ironforge Airfield, return them and I will reward you.",
+    ["O"] = "Recovery 6 Airfield Supplies for Supply Officer Mortimus at the Ironforge Airfield in Dun Morogh.",
+    ["T"] = "Airfield Supplies",
+  },
+  [42038] = {
+    ["D"] = "You there <class>, I have need of your assistance. The local Frostmane have become a greater hinderance than we first anticipated. Every day their numbers and aggression seems to swell, it will not be long before they become brazen enough to attack the airfield. This frozen lake seperates us from their main den to the south-west, and if it weren't for the damned terrain I would just drive these tanks there and wipe them out. When you thin their numbers, return to me, and we can advise our next plan of attack.",
+    ["O"] = "Slay 8 Frostmane Scouts, 6 Frostmane Drudges, and 6 Frostmane Mystics for Mountaineer Granitebeard at the Ironforge Airfield in Dun Morogh.",
+    ["T"] = "The Frostmane War",
+  },
+  [42039] = {
+    ["D"] = "My scouts have confirmed the location of a cave to the south west. It is called Frostmane Hollow, some de-facto capital for all of the troll kind in Dun Morogh. If we want to ever put a halt to this threat, we will need to root it out, from deep inside. Rumor has it that their leader is one called Battlemaster Ubukaz, some revered Frostmane fighter who now calls his warriors to battle. I want you to find him, and bring justice for Ironforge. I would advise you to bring reinforcements, there is no telling just how many enemies you may find in that cave.",
+    ["O"] = "Slay Battlemaster Ubukaz deep within Frostmane Hollow for Mountaineer Granitebeard at the Ironforge Airfield in Dun Morogh.",
+    ["T"] = "Chieftain Ubukaz",
+  },
+  [42040] = {
+    ["D"] = "<Ranix lets out a breathe of relief, sweat drips down his forehead.> Boy, am I happy you've come to your senses. There's no point in violence here, infact, I have work for you! Y-yeah, you see, we weren't selling weapons or anything of that sort here. I am just an honest trader, who was looking to acquire something from these Frostmane. I think it would be in both of our best interests while you're here rooting around and, bringing justice or however to work together. You see, the Frostmane have a rare tablet I was looking to acquire, and they've been a bit slow in handing it over, it is called the Tablet of Kaz'gan, located somewhere here in these corridors... <Ranix clears his throat.> So what say you? Coin for work?",
+    ["O"] = "Recover the Tablet of Kaz'gan for Ranix Crackbolt within Frostmane Hollow.",
+    ["T"] = "A Grave Misunderstanding!",
+  },
+  [42041] = {
+    ["D"] = "Listen here, bucko. I hate admittin’ it, but we’re deep in the mud here. Those crazies over in Kurzen camp thought raidin’ that Alliance camp up the mountains ain’t enough and decided to pay us folks a visit as well. Bad enough that we have our hands full with crocs, tigers, panthers, raptors and trolls - no, these loonies are now on our backs as well. Luckily we could fend them off pretty easily, but they made off with plenty of our supplies and gear. You look like you got your head screwed on right. I got a deal for you: Help a fellow out with some supplies for our camp and I’ll show you the real juicy secrets when it comes to survival in the wilds. Whaddaya say?",
+    ["O"] = "Help out Rufus Hardwick at Nesingwary’s Camp in Stranglethorn Vale by providing some survival supplies.",
+    ["T"] = "To Survive in the Jungle",
+  },
+  [42042] = {
+    ["D"] = "Our brothers and sisters of the Grove of the Moon have begun treading a misguided path towards destruction. They have abandoned Cenarius' teachings, desecrated his enclaves and endangered countless other peaceful druids. As a warden of nature, I cannot let this transgression pass. <name>, the intruders have laid claim to Elun'aran and the temple above, pillaging its sacred ruins for powerful artifacts. Stop them and return to me afterwards.",
+    ["O"] = "Stop the misguided druids on Tyrandas and return to Keeper Bandalar in the Grove of the Sun on Tyrandas afterwards.",
+    ["T"] = "Led Astray",
+  },
+  [42043] = {
+    ["D"] = "The city above us had been laying silent for millennia, an unspoken oath by all Kaldorei and druids to not enter the forlorn ruins of the Sisterhood. Thus, we had not secured the numerous relics inside for safekeeping, but let them rest in the embrace of time instead. However, now that the deranged defectors have begun trangressing and pillaging the temple, we cannot look idly by any longer. Gather allies and fight your way through their defenses. Retrieve as many artifacts as you can and bring them here to the grove.",
+    ["O"] = "Collect Elunaris Relics for Grovetender Sellais in the Grove of the Sun on Tyrandas.",
+    ["T"] = "Belated Preservation",
+  },
+  [42044] = {
+    ["D"] = "<name>, I have received an urgent message from one of the Circle's druidic enclaves in Moonwhisper Coast. Tragedy has befallen our brethren and they seek immediate aid. Please, seek out their grove on the island of Tyrandas in the northeast of Moonwhisper Coast and report to Grovetender Sellais.",
+    ["O"] = "Speak to Grovetender Sellais in the Grove of the Sun on Tyrandas in Moonwhisper Coast.",
+    ["T"] = "A Plea for Help",
+  },
+  [42045] = {
+    ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the warlock trainer Alamar. Take a gander at it and go find him inside Anvilmar when you've a chance. And watch yerself, <name>, your kind ain't too trusted 'round these parts.",
+    ["O"] = "Read the Tainted Rune and speak to Thorinn Darkgrovel inside Anvilmar above Coldridge Valley.",
+    ["T"] = "Tainted Rune",
+  },
+  [42046] = {
+    ["D"] = "I hope you feel welcomed in my home, traveler. You may freely use it for the time being, as I am soon to set my hoofsteps toward Moonhoof Retreat. A ritual of worship is soon to begin, and I, like many, wish to attend. Tradition has it, at least my personal one, to bring a flock of feathers from the roaming stagwings as an offering to Mother Mu’sha. A simple yet strong reminder that we are able to stand on our own in this beautiful yet harsh environment. Since you have been my guest, and as I grow old in my age, I would ask you to repay my kindness by bringing me seven stagwing feathers. You will find several of them roaming the fields around my house. Face them with courage and respect; think not of it as a mindless kill, but as proof that you are able to defend yourself and those you owe.",
+    ["O"] = "Bring 7 Stagwing Feathers to Luhal Tannedhorn, in his home, just outside Moonhoof Retreat, Moonwhisper Coast.",
+    ["T"] = "Ritual Ready",
+  },
+  [42047] = {
+    ["D"] = "I have felt somber energies coming from An’she’s Respite of late. While it seems to have not affected the dead there, it has certainly had an effect on the Ancestral Grounds. Several ancestors have been disturbed from their sleep beyond the veil of life and have risen to make their disdain known. Thankfully, much like a spoiled child, it does not take much for the dead to be reminded that they are no longer of this place. In such regards, if you will, for the peace of this old woman, go and smack them a few times. Be wary, for in their disturbance they see no reason, nor do they recognize friend from foe. It is the frustration of the grave that makes them aggressive. In the same remark, fear not killing them; they are already dead.",
+    ["O"] = "Slay ten Disturbed Ancestors and return to Groundstender Rainhorn in her hut, at the Ancestral Grounds, Moonwhisper Coast.",
+    ["T"] = "Back to Sleep",
+  },
+  [42048] = {
+    ["D"] = "That utter knucklehead of a chieftain has sent me all alone to watch over our Ancestral Grounds. He is terribly, terribly wrong for doing so, and I wish he would know that. You are on your way back to Moonhoof Village, aren’t you? Good. Tell that old bull he had better send a couple of young ones to help protect this place, rather than have me paying no-good adventurers, no disrespect, dear, to clean up this mess. And he had better pay me back every coin I put into this place too. <The old tauren huffs and puffs.> What, you are not gone yet? Seriously, young folk these days. Come now, child, scram!",
+    ["O"] = "Report Rainhorn’s frustration to Elder Moonhoof in Moonhoof Village, Moonwhisper Cove.",
+    ["T"] = "Rainhorn’s Frustration",
+  },
+  [42049] = {
+    ["D"] = "It seems I am dabbling in forces not even I can begin to imagine. What, not one for humor? Alas, I am unable to cleanse these beads. It’s clear that whatever manner of creature is influencing the furbolgs has ensured that not just anyone can dissipate it. And if I am having so much trouble with merely their possessions, I cannot begin to fathom what it would take to ease the minds of the already corrupted furbolgs. I am afraid that is not our main concern at this time, however. Since I am unable to cleanse these beads, I must ask you to venture to Azshara and seek one who can do it for us. You must find the Hydraxian Lords, Duke Hydraxis in particular. I hope he will be willing to help us soothe his fellow elemental brethren from Moonwhisper Cove. The elements can be at odds at times, but I dare hope he will listen and aid us. Duke Hydraxis can be found on a lone piece of land off the southeastern shore of Azshara.",
+    ["O"] = "Seek aid from Duke Hydraxis on his lone island in Azshara.",
+    ["T"] = "In Need of Water",
+  },
+  [42050] = {
+    ["D"] = "The Earthen Ring is a valued mortal friend of the Hydraxian Waterlords. Place those beads beneath one of my binding bracers and let my flowing waters do the rest. I share the concern of your troll friend; the corruption within them is indeed potent. Fret not, it is not potent enough to bring an elemental Duke such as I to his knees, though it has surely done a number on the furbolgs. As for the shrines of my brethren, I too sense more than one conflict in Moonwhisper Coast. Their guardians have risen to protect their places of worship, yet perhaps this is a time for mortals, not elementals. I have come to consider that the day may arrive when I must rely upon your kind, perhaps even you. If the mortal children of this world wish to stand tall in adversity, how could I deny you this duty? Retrieve your beads, mortal, return to your troll friend, soothe my brethren’s unrest, and stand resolute in your choice.",
+    ["O"] = "Return to Uz’tuk with the cleansed Bundle of Beads in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "In Water, Clarity",
+  },
+  [42051] = {
+    ["D"] = "The elements remain in turmoil. With the beads now cleansed by the Duke, we can soothe them. Moonwhisper Cove holds three elemental shrines. You will find one south of here, just before the Grove of the Moon, and the other two by following the road north to An’she’s Respite. Each shrine hosts a shaman stone, just like the one behind me. Used as a connection between the elemental plane and our own, the stone provides them with great strength, so be careful not to face too many of them at the same time. I need you to visit each of these shrines and confront the elemental stone at each one. While standing next to an elemental stone, hold the bundle of beads high and let it do its work. The energy and incantations that Uz’tuk and I infused into them should see your task done.",
+    ["O"] = "Use the Bundle of Beads at each Elemental Shrine and then return to Lotka Muddoll in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Bound in Stone",
+  },
+  [42052] = {
+    ["D"] = "A flame burns bright amid the surrounding darkness within your eyes. That flame speaks for itself. You are no amateur. Bluntly speaking, you are soon to reach your prime as an adventurer and explorer of this world. Mm, yes, you will do. I sense a hunger within you, a hunger that deems us siblings. You too crave the ecstasy of danger, of pain. I, Gor’dush Jawtaker of the Scalereaver Warband, offer you a test of might, a test of will. Ahead of us, in the crater where the crystal beams, you will find several whelps and lesser minions of the Blue Dragonflight. Bathe in their blood and return to me. To succeed in this task, you need a warband of your own. Claim any ally you see fit, any friend or adventurer lost to the lands of this coast. Join them in the eternal glory that is dragon hunting. Fulfill this tale of courage, and I will set you upon an even more glorious destiny.",
+    ["O"] = "Slay Cerulean Astronomers, Captains and Icewears and return to Gor’dush Jawtaker in the Ancestral Grounds, Moonwhisper Coast.",
+    ["T"] = "In Blue Defiance",
+  },
+  [42053] = {
+    ["D"] = "I have mentioned a path of glory before. On Draenor, while my kind grew ill with bloodlust and the greed of collecting skulls, we called the road that led to this world a path of glory. What misguided fools we were. That road was paved with the bones of either the innocent or those whom we, in our twisted purpose, saw as enemies. No more. There was no glory to be found there. I have done many things I am not proud of, by my own will or by the orders of others. I say again, no more. Seek now the glory that comes from putting a stop to those meant to protect mortals, yet now deem them unworthy. Seek the drakes Starcaller and Spellstriker. One guards the crystal, the other looms over Vynagosa’s Rest, the isle to the north. Bring me their jaws, and from them I will grant you a prize.",
+    ["O"] = "Bring Gor’dush Jawtaker the jaws of Starcaller and Spellstriker, in the Ancestral Grounds, Moonwhisper Coast.",
+    ["T"] = "Jawtaker",
+  },
+  [42054] = {
+    ["D"] = "Just a moment ago a messenger was looking for you, <name>. I believe she was sent by the priest trainer Nuhlok. If this note is from Nuhlok, I wouldn't take long in reading its contents.",
+    ["O"] = "Read the Hallowed Note and speak to Nuhlok Starstrider in Camp Narache.",
+    ["T"] = "Hallowed Note",
+  },
+  [42055] = {
+    ["D"] = "I have shared with you all the teachings I am able to, which means you have already exceeded my expectations. When you are ready to leave the Red Cloud Mesa, seek my elder brother, Pargan Starstrider, in Bloodhoof Village. He will teach you more of our worship and its history. Yet as your first master, I must also share what knowledge I have gathered in my own devotion. The Celestial Siblings are exactly that, my friend, siblings. Though Lo’sho was born of Mu’sha, she treats him more like a younger brother than a son. Like any family, they quarrel. When Lo’sho was born, a heavy burden was placed upon him. It was no different for Mu’sha and An’she, for the Earthmother opened her eyes and there they were. I am biased. I worship Lo’sho most. Born of Mu’sha’s pain as she beheld the world beneath the Burning Legion, he carries hope. He will weep and laugh with you. He does not judge; he listens and provides. Remember this as you venture forth.",
+    ["O"] = "Seek Pargan Starstrider in Bloodhoof Village, Mulgore.",
+    ["T"] = "In Favor of the Three Siblings",
+  },
+  [42056] = {
+    ["D"] = "Let us put your teachings to the test. South of this tent, past the circle of totems where our warriors train and beneath the shadows and foliage of trees you will find Brave Greenhorn. He looms, wounded, keeping guard over the Winterhoof Water Well which has been run over by the Venture Co. While he was ordered simply to observe he was none the wiser and chose to do the opposite. As such he started a fight with the Venture Co. and managed to flee by the skin of his teeth. Your task is to find him, heal him and reinforce his spirit through Fortitude and remind him, he has allies he can rely upon. So that he may return to the village and muster a force to face the enemy ahead. Do this and when you return we will speak of Mu’sha.",
+    ["O"] = "Find Brave Greenhorn and heal his wounds using Lesser Heal (Rank 2). Afterwards, grant him Power Word: Fortitude and then return to Pargan Starstrider in Bloodhoof Village, Mulgore.",
+    ["T"] = "Garments of the Three Siblings",
+  },
+  [42057] = {
+    ["D"] = "You are here. Ready to start?",
+    ["T"] = "Light of An'she",
+  },
+  [42058] = {
+    ["D"] = "Your journey has been adventurous so far. A wonderful thing to behold. But now you need to return to Thunder Bluff. Artahla Starstrider wishes to see you, to further the teachings of the Celestial Siblings. She awaits on the Spirit Rise in Thunder Bluff.",
+    ["O"] = "Speak to Artahla Starstrider in Thunder Bluff.",
+    ["T"] = "Light of An'she",
+  },
+  [42059] = {
+    ["D"] = "You are here. Ready to start?",
+    ["T"] = "Spiritwalk",
+  },
+  [42060] = {
+    ["D"] = "The wisdom of your travels can be seen clearly. I think it is time to speak with Artahla Starstrider once more and dive deeper into the lore of your people. She will be able to teach you new spells to help you on your quest. Meet her on the Spirit Rise in Thunder Bluff.",
+    ["O"] = "Speak to Artahla Starstrider in Thunder Bluff.",
+    ["T"] = "Spiritwalk",
+  },
+  [42061] = {
+    ["D"] = "Ah. An adventurer. <Astalor’s lip curls slightly.> How fortunate... I find myself in need of someone… expendable. I dispatched my cousin, Andanil, to the distant shores of Moonwhisper in northern Kalimdor. The task I entrusted to him was of significance. Regrettably, his competence was not. It has been weeks. No word. No report. No reassurance that he has not embarrassed our name beyond repair. <Astalor places a hand to his chest, his expression shifting into a pale imitation of concern.> I would be… devastated… if some misfortune befell him. You will travel to Moonwhisper. You will determine his condition. If, by some miracle, he is alive and the mission proceeds as intended, you will observe and report. If it is not, you will ensure that it does. Ships bound for Kalimdor depart from Windrunner Pier. Do not keep me waiting.",
+    ["O"] = "Find what remains of Andanil’s expedition on Moonwhisper Coast.",
+    ["T"] = "Sunsworn Expedition",
+  },
+  [42062] = {
+    ["D"] = "We are the Sentinels. We swore an oath to protect the lands of Kalimdor. Distance does not weaken that duty, and time does not erase it. I have heard reports of strange events along the forgotten shores of Moonwhisper. These lands were once a jewel of our empire. Now they lie abandoned. Nendis was broken when the Betrayer and his naga struck, and its scars still remain. Even so, we cannot allow darkness to take root where vigilance has faded. I have sent one of my commanders ahead. She has made camp near the ruins of Elun’aran, once a thriving town. Seek her out. Lend her your aid, and let your actions honor the oath we all share.",
+    ["O"] = "Travel to Narvalis Point on Moonwhisper Coast and offer your services to Sentinel Commander Silverstreak",
+    ["T"] = "Endless Vigil",
+  },
+  [42063] = {
+    ["D"] = "Greetings. Are you traveling to the Moonwhisper Coast? My duties keep me here, but I carry a delivery meant for a dear friend of mine. She ventured north with Commander Silverstreak. They have established a small outpost called Narvalis Point. If you are headed that way, I would be grateful if you could deliver this to her. The road ahead is not without danger, but I believe you will manage. Be careful in the tunnels along the coast. The Withermaw furbolgs that dwell there have grown restless and unpredictable. May Elune watch over your steps.",
+    ["O"] = "Deliver the Asharan Provisions to Irea Dawncaller in Narvalis Point on Moonwhisper Coast.",
+    ["T"] = "Delivery from Talendris",
+  },
+  [42064] = {
+    ["D"] = "As a captain of the guard, keeping the expedition alive is my charge. I failed at that. Not to the enemy, but to fools who thought this land would forgive mistakes. It does not. However, what truly crippled us was theft. Supplies. Ammunition. Food meant to last the month - gone. The furbolgs to the south took them. They did not always prey on the desperate. Something twisted them. Timbermaw Hold reeks of bad magic, and they carry it with them. I see their scouts closer each night. Testing us. Counting fires. Waiting. Without those supplies, this camp will starve or freeze before the enemy ever strikes. Go south, to their village. Find what they stole from us. Take it back. If they stand in your way, deal with them. Quietly if you can. Brutally if you must. We cannot afford mercy. Not anymore.",
+    ["O"] = "Recover the stolen expedition supplies from the Blackroot furbolgs for Rhys Dawnbreeze in Sunsworn Camp on Moonwhisper Coast.",
+    ["T"] = "Blackroot Hold",
+  },
+  [42065] = {
+    ["D"] = "The draenei. Strange beings from a broken world. The same world our traitor prince chose over his own people. <Rhys spits.> There is a village to the northeast. They keep to themselves. We traded for their crystals. Curious things. They hum when no wind blows. I do not trust them, but they have not raised steel against us. Not yet. In the swamps and forests, it is different. Those who call themselves the Fallen Ones stalk the reeds and the tree line. They do not parley. They rush you without warning and strip the flesh from your bones. I have seen what they leave behind. We cannot build anything here while they breathe. The expedition will never be secure with them prowling our flanks. Hunt them. Kill them where they hide. Bring me forty of their heads as proof. Yes, forty. Do not question the number. These swamps crawl with them. You will not struggle to find your count. Thin them out until even the mud runs red.",
+    ["O"] = "Bring 40 Fallen One Heads to Rhys Dawnbreeze in Sunsworn Camp on Moonwhisper Coast.",
+    ["T"] = "Falling the Fallen",
+  },
+  [42066] = {
+    ["D"] = "Those fools think draenethyst crystals are our salvation. <Tesania laughs, sharp and bright, like she just heard a perfect joke.> Salvation. For us. That is a good one. There is no saving our people. Still, I intend to delay the inevitable for as long as I can. <She glances at the two withered nearby, her smile fading into open contempt.> I have no desire to end up like that. To the east lie the ruins of Maras’ethil. Once a Highborne center of learning. Now a broken monument to our arrogance. Typical. My research suggests there are still artifacts there. Old ones. Potent ones. The kind certain parties would trade generously for in mana crystals. Very generously. Bring me at least four artifacts worth my time. I promise, you will find the reward far more pleasant than whatever fate awaits the rest of us.",
+    ["O"] = "Find four valuable magical artifacts in Maras’ethil, then return to Tesania Shadewind in Sunsworn Camp on Moonwhisper Coast.",
+    ["T"] = "Ghosts of Maras’ethil",
+  },
+  [42067] = {
+    ["D"] = "Before the… incident, we managed to secure a fair number of draenethyst crystals. They are potent, yes, and full of promise. Still, something is missing. I can feel it. Some time ago, a great meteor fell north of here. It tore the earth apart when it struck, and its arrival drew many of the blue dragonflight to the site. That alone tells me enough. The stone is saturated with arcane energy. In the right context, it could be invaluable to my work. I believe it would resonate with draenethyst in a way we have not yet seen. The exact mechanisms are not important. What matters is this. I need a sample. The dragons guarding the impact site are hostile, and I will not ask you to walk into certain death. However, the Fallen Ones do not share such reservations. They place little value on life, their own included. It is possible they scavenged shards from the meteor. If so, you will find them in the Servitor’s Sanctuary to the north. Search there, and bring me what you can recover.",
+    ["O"] = "Retrieve the Meteor Shard for Arcanist Cerulon in Sunsworn Camp on Moonwhisper Coast.",
+    ["T"] = "Heaven Falling Down",
+  },
+  [42068] = {
+    ["D"] = "Apologies for the sorry state of our camp. These lands are strange, and their inhabitants even stranger. And… we have suffered a major setback. <Andanil shifts, tension plain in every movement.> Let me explain what happened.",
+    ["O"] = "Listen to what Andanil Sunsworn has to say about the expedition.",
+    ["T"] = "Expedition Gone Wrong",
+  },
+  [42069] = {
+    ["D"] = "I cannot spare any of my people. They are scholars, arcanists, minds trained for study, not slaughter. I need them lucid, focused, working. If I send them into that den, I lose more than soldiers. I lose what little progress we have left. You are different. You carry no obligation to my house, no oath to my cousin’s ambition. And you handle yourself like one who has seen real battle. That is what I require. Listen carefully. I need your help, and I will see you rewarded in a manner worthy of the risk. Go to the den. Find what they uncovered. Find what drained them so completely, so quickly. It must still be there. An artifact. A stone. Whatever it is, it is the source. Bring me proof. Bring me the object itself if you can. And… if there is any chance, any at all, do not kill them. Not unless you must. If this was caused by magic, then magic may yet undo it. <Andanil turns his gaze aside, jaw tightening.> I am aware of how that sounds. Even so. Try.",
+    ["O"] = "Find what caused the expedition to wither in the Barrow Den north of Sunsworn Camp, then return with your findings to Andanil Sunsworn in Sunsworn Camp on Moonwhisper Coast.",
+    ["T"] = "The Withered Den",
+  },
+  [42070] = {
+    ["D"] = "I believe the time has come to face my father and question his judgment. Yet I doubt he would listen; he would, as always, dismiss it as if all he does is for the well of his people and I, his family. I require you to do something for me. I must have the Horde act on my behalf, but not just any adventurer, someone who will have an impact. I need you to travel south, to the plains of Mulgore, and find Baine Bloodhoof in Bloodhoof Village. I could send you to his father, but I would rather enlist the Bloodhoof heir. He will understand, from one heir to another, how heavy this burden is. Tell him what you have faced and witnessed among my tribe. You will be my witness to the urgency of this task. By gaining the support of the Horde and acting as an extension of authority, my father will be forced to listen. He hates that he must resort to the Horde, and we will use his pride against him. Do not fail me. This way, you will also absolve yourself of the sins committed under his orders.",
+    ["O"] = "Seek the aid of Baine Bloodhoof in Bloodhoof Village, Mulgore.",
+    ["T"] = "One Heir to Another",
+  },
+  [42071] = {
+    ["D"] = "My father was skeptical enough when we received news of an agreement between the Bloodhoof and the Moonhoof, truth be told. The Moonhoof have always favored their independence and, above all, their relationship with the night elves. The Moonhoof were under the umbrella of the Cenarion Circle. Both the Grove of the Moon and the Grove of the Sun were there to prove that. To hear that the Grove of the Moon has gone astray is most curious. From what you are telling me, they have abandoned their worship of Mu’sha and traded it for the worship of Lo’sho, which the Elder Moonhoof believes to be a corruption. I must mull over these things. You will find my father in Elders’ Rise in Thunderbluff. I doubt he will turn you away; he does want the Moonhoof to officially become part of the Horde, especially now that they have estranged themselves from the night elves. I believe this will lead to forced isolation, and the Elder is simply using the Horde to obtain what he needs for it to be so.",
+    ["O"] = "Report to Cairne Bloodhoof in Elders’ Rise, Thunder Bluff, Mulgore.",
+    ["T"] = "Father Will Listen",
+  },
+  [42072] = {
+    ["D"] = "Riverhorn, the Grove of the Moon, An’she’s Respite lost. The elementals rose and wreaked havoc. Dragons, wildlife, naga, furbolgs, and draenei. Atop it all, members of the tribe who chose to leave and seek their own justice were ordered to be slain by the one meant to protect them, and by your hand no less. Yes, the younger Moonhoof was right to send for aid. His stubborn father was always like this. He treasures the Sun more than anything and believes himself to be the closest tauren to it. Thus his indifference to the cries of his own people, of his own son. Return to the younger Moonhoof and tell him Thunder Bluff stands by his side. I would have sent Baine, but I would rather spare him the trouble and the danger. So you will have to do. Go, but take this. This totem represents my tribe, and while you hold it, you speak for us. Do not disappoint me, young one. Otherwise, trusting you would be a foolish plan.",
+    ["O"] = "Return to the younger Moonhoof in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Bloodhoof Stands with Moonhoof",
+  },
+  [42073] = {
+    ["D"] = "Prepare yourself for the most stubborn bull you have ever met. Whatever you do, do not let go. Insist until he cracks. He will be a terrible opponent of wills, but you must push his buttons enough to have him tell you what he knows and to finally accept his mistakes for what they are. For a man to pull the wool over his own eyes is the strangest, most selfish way of acting. If I sound frustrated and desperate, it is because I am. I cannot tell you how long I have had to deal with this on my own. Please, please, do not let my trust go to waste. You already know where he is, in his hut. Seek him, talk to him, convince him of his wrongdoings, and let this nightmare be finished.",
+    ["O"] = "Face the Elder Moonhoof and then speak to him in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Facing the Elder",
+  },
+  [42074] = {
+    ["D"] = "I have told you my truth. It is up to you now to decide whether you trust it or not. To understand what led Mothshroud to Maras’ethil you must follow in his hoofsteps. My patron points the way. You must travel south, past the Ruins of Nendis and through Moro’gai Village. Once you pass the first bridge that marks the outskirts of the Moro’gai Village, take a left and head east. Just past the lone farmer’s land you will find another bridge. Follow the road inside Maras’ethil and once it turns into a circle, go left once more. As it splits into four, go towards the one ahead, the one that has an arch above it. Approach but don’t go through the arch, instead go right and then swiftly left. This way you will find a clearing opening, a sight towards the Great Sea and a lone tree. You will find your clue there and once you do, return it to my son.",
+    ["O"] = "Find clues of the Mothshroud’s ambition in Maras’ethil and return to the Younger Moonhoof in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Seeking the Truth",
+  },
+  [42075] = {
+    ["D"] = "You have found the letter addressed to me, you know now he aims to take vengeance on the Moonhoof tribe, what else do you require of me, even? What can I or should I tell you that you do not already know? You could not possibly ask me to betray my own master. But you are, that is your goal. To have me tell you in detail what he intends to do, whether his mind is own still or this is a simple meddling of demonic forces seeking to corrupt. Fine, you will hear my words, after you fulfill a request of mine. As you know, my master left for Tyrandas, but the way you are now, you will not stand a chance. Especially not on your own. Have you allies, have you friends? Gather them and go to Tyrandas. Instead of heading into the heart of the island, go west to the now Withered Enclave. Lay waste to those damn grells and peace to the twisted gardeners. Prove your might and I may speak.",
+    ["O"] = "Slay Rampaging Grells and Withered Gardeners in the Withered Enclave on the isle of Tyrandas, and return to Ireth Moondancer in the Ruins of Nendis, Moonwhisper Coast.",
+    ["T"] = "Price of Betrayal",
+  },
+  [42076] = {
+    ["D"] = "Mothshroud is draining the power of the druids and every other living creature under his command to fulfill his ambition. My lost brothers and sisters became twisted, disturbed even as they either willingly or not have remained to serve our former Arch Druid. He was once my master, and I still hold much respect for the man he once was. I did not think I would have to lose two Arch Druids close to my heart to the pain of mourning. Perhaps I was too blind to see it, but he reminds me of Fandral Staghelm. Yet Arch Druid Fandral has not fallen so deeply to ally himself with the satyr and seek benevolence from the Blue Child, to rid the sick of his elder sibling. He has doomed all the druids in his service to a death with no Emerald Dream. As you battle through those who would stand against you in your quest to find Mothshroud, find some time to recover their charms. Charms we have made under the calming shadows in the Grove of the Moon. Return those to me, so I may bury them.",
+    ["O"] = "Retrieve Moonlit Charms from the fallen druids of Elun’aran and bring them back to Ireth Moondancer in the Ruins of Nendis, Moonwhisper Coast.",
+    ["T"] = "Return to the Dream",
+  },
+  [42077] = {
+    ["D"] = "Mothshroud believes that An’she is the one to make Mu’sha shine, through his light. And as such, to punish the patron of Moonhoof that denied his revenge he would take away what he too had lost. It is his ambition to inquire for the aid of the youngest sibling, to punish An’she by making the patron of the day feel loss, so that he would understand what it is to mourn. It is his greatest question, what would An’she do when he lost his most beloved sister? Would he seek the very same vengeance Mothshroud did, the one he denied him to claim or will he play the stoic even then. Alas, quite the existential thing to ponder, but tell me, is it worth the cost of so many lives? I have blindly followed Mothshroud, telling myself that he would see reason in the end. Yet, that end will not come to pass. It breaks my heart to send you after him. He is atop the Temple of Elunaris, preparing to shoot down the moon. End this spectacle, and return to Moonhoof Village.",
+    ["O"] = "Kill Arch Druid Mothshroud atop the Temple of Elunaris, Tyrandas and return to the Younger Moonhoof in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Mothshroud Falls",
+  },
+  [42078] = {
+    ["D"] = "What Mothshroud did was wrong, he bathed himself in the blood of others for his own conviction, his own ambition, his own pain. Are they not similiar? Father chose to remove the problem, to erase it. And in doing so he has sealed his fate. For a tribe known to walk with the celestial siblings, it makes me wonder. Is it the influence of the siblings that made this possible, are we nothing more than pawns in a messy game; a witness to their quarrel and a means to prove each other who stands atop another? If anything this experience should stand as proof that we should not blindly follow our gods. What we see through the eyes of the Earthmother, and its tear, should not necessarily be what we see with our own eyes. Were I my father’s son, I would have him dead. Instead, I task you to speak to him one last time, tell him that the deed is done, that Moonhoof is safe, and that he is no longer needed here. Have him gather his things and accept his banishment with a clear head.",
+    ["O"] = "Report to Elder Moonhoof in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Moonhoof Rests",
+  },
+  [42079] = {
+    ["D"] = "While the scroll appears to be intact there is a seal on it you are not able to unlock. Your thoughts send you towards Mhulf Nighthorn, a worshipper just like you from the Moonhoof Village. Either by your intuition alone or a sign from the Celestial Siblings your hoof guides you toward him, knowing that he may be able to uncover this seal.",
+    ["O"] = "Take the Half-Burnt Journal to Mhulf Nightorn in Moonhoof Village, Moonwhisper Coast.",
+    ["T"] = "Secrets of Moonwhisper",
+  },
+  [42080] = {
+    ["D"] = "Father mentioned Ireth Moondancer to you, didn’t he? It seems he might be alive. If this letter is to be believed he was sent to the ruins of Nendis to retrieve something, but failed to meet with Mothshroud in the required time. Seeing as the letter was still there we can safely assume he never made it to the meeting point regardless. Whether those are good or bad we will know in time. I wonder what Mothshroud spoke of…, vengeance on my father, his patron? I suppose it’d be clear he would have had a grudge when father refused his quest for vengeance. He still speaks with yearning towards Lo’sho it seems, but I doubt the motive is… pure. No point in thinking of it for too long. Go to Nendis, the naga do love to toy with their captives first, by some miracle Moondancer would still be alive. The Ruins of Nendis can be found south of here.",
+    ["O"] = "Find Ireth Moondancer in the Ruins of Nendins, Moonwhisper Coast.",
+    ["T"] = "Moondancer Lives?",
+  },
+  [42081] = {
+    ["D"] = "You there, young one! It would appear you have arrived at an opportune time. We have been looking for... A bit of assistance. Many have begun to travel here to Moonhoof Retreat in anticipation for the coming festival, and yet there are still things to be done. If you're looking to be of assistance, I am certain Elder Starstrider has tasks for you. You can find him behind this tent, up the trail and near the large bonfire above. Do not be afraid to introduce yourself, and be sure to let him know that I sent you.",
+    ["O"] = "Introduce yourself to Elder Starstrider atop of the hill overlooking Moonhoof Retreat and offer your assistance.",
+    ["T"] = "An Opportune Arrival",
+  },
+  [42082] = {
+    ["D"] = "There are still tasks that need to be completed for the festival to begin, and for this I will need some diligent hands. First I need to fashion a headdress made from the feathers of local creatures. They can be found all across Moonwhisper Coast. I will require six Azureshimmer Feathers from the Hippogrpyhs, and six Moonstrider Feathers from the Plainstriders. I must ask you, be careful with the feathers. They are somewhat delicate and can be damaged beyond use.",
+    ["O"] = "Gather 6 Azureshimmer Feathers from the local Hippogryphs and 6 Moonstrider Feathers from the local Plainstriders for Elder Starstrider atop of the hill overlooking Moonhoof Retreat in Moonwhisper Coast.",
+    ["T"] = "Starstrider Headdress",
+  },
+  [42083] = {
+    ["D"] = "If we are to ever commence the celebration, we must recover an artifact. Near a full month ago, the Fallen One raided our camp and made off with a few possessions, one being our coveted artifact. The Rod of Preservation has been sacred to this celebration, and is required to bring our ancestors into manifestation. I must ask of you to recover it, I have no doubts the skulking no-goods have taken it to the north west and stashed it amongst their hovels. Once you have retrieved the Rod of Preservation, return it to me, and we can take to our final task.",
+    ["O"] = "Recover the Rod of Preservation from the local Fallen One Draenei for Elder Starstrider atop of the hill overlooking Moonhoof Retreat in Moonwhisper Coast.",
+    ["T"] = "The Rod of Preservation",
+  },
+  [42084] = {
+    ["D"] = "To finalize our preparations we must now face our final task. To prepare the visage of our elder ancestors we must acquire a rare and enchanted material. In translation, it is known as Dragon Dust, the speckling, magical powder that can be found on the Blue Dragonkin and their ilk who have been blessed by powerful sorcery. Are you prepared <name>? This task will be our hardest, and will require considerable skill at arms, or the help of fellow adventurers. If you wish to seek out the Blue Dragonflight, you can find them at Starshard Cradle to the north west.",
+    ["O"] = "Gather 3 Dragon Dust from the Blue Dragonflight present in Moonwhisper Coast for Elder Starstrider atop of the hill overlooking Moonhoof Retreat in Moonwhisper Coast.",
+    ["T"] = "A Tale of Scales",
+  },
+  [42085] = {
+    ["D"] = "Everything has been prepared, and I am certain the tribe is ready for the festival. It is time to bask in the wisdom of our ancestors, and behold their words. Once I have begun, I should not be disturbed. Speak to me when the celebration has come to conclusion.",
+    ["O"] = "Behold the Moonhoof Celebration atop of the hill overlooking Moonhoof Retreat in Moonwhisper Coast.",
+    ["T"] = "The Moonhoof Celebration",
+  },
+  [42086] = {
+    ["D"] = "Nendis. Even after all these years, the name still lingers in my mind. A place where the people of our kind once lived in quiet devotion to the forests and the moon. When Illidan and his naga came to these shores, Nendis was among the first places to fall. The town burned in a single night. Those who were not slain fled into the wilds… and many never returned. What remains now are only ruins. Broken homes. Collapsed towers. And memories scattered in the dust. The naga infest the place these days. They crawl through the streets where our people once walked. History deserves better than to be left in their coils. Go to the ruins of Nendis, to the south. Search what remains of the town and recover what relics you can. Letters, charms, fragments of old tools… anything that once belonged to those who lived there. Bring me thirty such mementos.",
+    ["O"] = "Recover 30 Nendis Mementos from the ruins of Nendis and return them to Talanis Amberscribe in Narvalis Point on Moonwhisper Coast.",
+    ["T"] = "Echoes of Nendis",
+  },
+  [42087] = {
+    ["D"] = "You have done well recovering those relics from Nendis. More than I hoped for, if I am honest. But there is another place nearby whose story troubles me far more. To the east lies the Isle of Tyrandas. In older texts it is called a place of quiet reflection. Long before the great temples rose in our cities, priestesses of Elune once trained there. At its center stood the Temple of Elunaris. A modest sanctuary by the standards of later ages, but deeply revered in its time. The priestesses who studied there were said to guard a sacred artifact, one touched by the moon’s light itself. The temple was abandoned long ago. Time and war saw to that. Yet some of our oldest records insist the artifact was never removed. If it still rests within those ruins, it would be a relic of immense historical value… and perhaps spiritual importance as well. Travel to the Temple of Elunaris on the Isle of Tyrandas. Search the sanctuary and discover what power still lingers there.",
+    ["O"] = "Find the source of power within the Temple of Elunaris on the Isle of Tyrandas and return it to Talanis Amberscribe in Narvalis Point on Moonwhisper Coast.",
+    ["T"] = "The Light of Elunaris",
+  },
+  [42088] = {
+    ["D"] = "The tauren of these lands have never been our enemies. We keep our distance. They keep theirs. Sometimes we even trade. It is not friendship, but it is peace, and peace is rare enough in these times. That is why this troubles me. A splinter group has taken refuge at An’she’s Respite to the south. They no longer answer to their chieftains, and they do not behave like the tauren we know. My sentinels approached them under banner of parley. Two of my sisters did not return. Something has twisted them. Madness, corruption, or some darker influence. I do not yet know which. What I do know is this: they are attacking anyone who passes near their camp. I will not allow that threat to remain at our doorstep. Travel to An’she’s Respite and cut them down before their violence spreads any further.",
+    ["O"] = "Slay 12 Shadewalker Bonerattlers, 8 Shadewalker Brutes and 8 Shadewalker Sharpshooters at An’she’s Respite, then return to Sentinel Commander Silverstreak at Narvalis Point.",
+    ["T"] = "An’she’s Respite",
+  },
+  [42089] = {
+    ["D"] = "The naga have infested the ruins of Nendis like parasites. Once it was a quiet settlement of our people. Now the streets are flooded with serpents loyal to the Betrayer. Their warriors call themselves the Tideblade. Veterans of the army Illidan unleashed when he first struck these shores. We have skirmished with them for weeks, but they are persistent. For every naga we slay, two more seem to slither out of the surf. If we are to weaken their presence here, we must thin their ranks directly. Go to the ruins of Nendis and hunt the Tideblade naga. Bring me thirty of their scales as proof of their deaths.",
+    ["O"] = "Bring 30 Tideblade Scales to Sentinel Commander Silverstreak at Narvalis Point.",
+    ["T"] = "Scales of the Tideblade",
+  },
+  [42090] = {
+    ["D"] = "You have proven the naga can bleed. Now we make certain they cannot recover. Two commanders direct the Tideblade forces occupying Nendis. Veterans from the day Illidan’s armies burned the town to the ground. Lady Serpentia. Lord Ta’jax. They served as lieutenants during the assault. It was their warbands that swept through the streets while the town burned. They have ruled the ruins ever since. If the Tideblade are to lose their hold here, those two must fall. Without their leadership the naga will fracture into smaller broods, easier to drive back into the sea. The naga have ruled those ruins long enough.",
+    ["O"] = "Slay Lady Serpentia and Lord Ta’jax in the ruins of Nendis, then return to Sentinel Commander Silverstreak at Narvalis Point.",
+    ["T"] = "Serpents Without Heads",
+  },
+  [42091] = {
+    ["D"] = "Narvalis Point stands secure, thanks in no small part to your actions. The naga presence in Nendis has been broken, and their commanders lie dead. For the first time since Illidan’s invasion, the ruins may finally be free of their grasp. Still, this victory belongs not only to my sentinels. The High Priestess must be informed. Tyrande Whisperwind watches over all our people, and she should know what has been accomplished here. The fall of Illidan’s lieutenants is no small matter.Travel to her and deliver this news. Tell her the Tideblade are broken, and that Narvalis Point still stands vigilant.",
+    ["O"] = "Bring news of the victory at Nendis to Tyrande Whisperwind.",
+    ["T"] = "Word to the High Priestess",
+  },
+  [42092] = {
+    ["D"] = "You have seen the crater to the west, yes? The one they call the Starshard Cradle. A most unfortunate name. Romantic, even. I assure you, there is nothing romantic about a rock falling from the heavens with enough force to crack the earth open. What interests me is not the crater itself, but what came after - blue dragons. Not one or two passing through, but an entire brood circling the impact site as though it were a shrine. One of them in particular has drawn my attention. Starcaller. It patrols the skies above the crater and drives away anything that comes too close. Adventurers. Scholars. Even the naga have learned to give it a wide berth. Which leaves us with two possibilities. Either the meteor drew the dragons here… Or the dragons themselves caused it to fall. Neither answer sits comfortably with me. Slay the drake known as Starcaller at the Starshard Cradle. With it gone, we may finally learn what the dragons are guarding there.",
+    ["O"] = "Slay Starcaller at the Starshard Cradle, then return to Zarazar on Moonwhisper Coast.",
+    ["T"] = "A Star That Calls Back",
+  },
+  [42093] = {
+    ["D"] = "Narvalis Point may look quiet, but quiet places still need defenders. Sentinels patrol these woods day and night. Most people see their glaives and forget the other half of their craft. The bow. <Elendon lifts a bundle of unfinished arrows from his workbench.> Good arrows are not simple things. Straight shafts, balanced heads… and proper fletching. Without the right feathers, even the finest arrow will fly crooked. Normally we would import materials from deeper kaldorei lands, but supply lines to this coast are… unreliable. Fortunately, the forests here offer an alternative. Azureshimmer hippogryphs nest along the cliffs and high branches of the surrounding woods. Their feathers are light, strong, and remarkably stable in flight. Perfect for sentinel arrows. I only need a handful. Gather twelve of their feathers and bring them to me. Do try not to harm more hippogryphs than necessary. They are proud creatures, and they have lived on this coast far longer than we have.",
+    ["O"] = "Bring 12 Azureshimmer Hippogryph Feathers to Elendon Truebough at Narvalis Point on Moonwhisper Coast. You can find them scattered throughout Moonwhisper Coast.",
+    ["T"] = "Feathers on Point",
+  },
+  [42094] = {
+    ["D"] = "The wilds whisper to those who know how to listen. Most hear the wind in the trees. The rustle of leaves. The quiet breath of the forest at rest. And lately… the forest has been uneasy. To the south lies a place once known as the Grove of the Moon. A quiet sanctuary where druids studied the cycles of sleep, dreams, and the hidden paths of the Emerald Dream. But those who dwell there now no longer follow Cenarius’ teachings. They call themselves the servants of the Moth. Strange rituals. Distorted dreams. They have begun shaping the wilds according to their own designs, ignoring the balance that has guided druids since the first teachings of Malorne’s son. Such arrogance always leads to ruin. Travel to the Grove of the Moon and thin their ranks. End eight Druids of the Moth, eight Disciples of Lo’sho, eight Lucid Dream Protectors, and eight Lucid Dream Stalkers. Perhaps when enough of them fall, the rest will remember what it means to be druids.",
+    ["O"] = "Slay 8 Druid of the Moth, 8 Disciple of Lo’sho, 8 Lucid Dream Protector, and 8 Lucid Dream Stalker in the Grove of the Moon, then return to Arch Druid Renethra at Narvalis Point.",
+    ["T"] = "The Moth’s Heresy",
+  },
+  [42095] = {
+    ["D"] = "If the corruption in the Grove of the Moon spreads further, we will face more than a handful of misguided druids. We will face a wound in the wilds themselves. Sister Mirallun watches over the Grove of the Sun on the Isle of Tyrandas. She is a child of the forest, born of the old woods, and her senses reach far deeper into the living world than ours. If something is stirring within these lands, she will know. Travel to the Grove of the Sun and speak with her. Tell her what you witnessed in the Grove of the Moon.",
+    ["O"] = "Speak with Sister Mirallun in the Grove of the Sun on the Isle of Tyrandas.",
+    ["T"] = "A Dryad’s Counsel",
+  },
+  [42096] = {
+    ["D"] = "The corruption you saw in the Grove of the Moon is only the beginning. To the north lies Elun’aran, a sacred village once tended by druids who honored both the forest and the moon. Now it festers. The same druids who abandoned Cenarius’ teachings have spread their influence there. Their rituals twist the land, and creatures of rot now roam beneath the ancient trees. Even some of my own kin have fallen. Dryads corrupted by their magic now call themselves the Sisters of Rot. Satyrs whisper in the shadows, feeding the madness that spreads through the groves. And the ancients… the great guardians of the forest… they have begun to decay while still walking. This cannot continue. Travel to Elun’aran and cleanse the grove. Slay ten Sisters of Rot, ten Whispering Satyrs, and five Rotting Ancients.",
+    ["O"] = "Slay 10 Sisters of Rot, 10 Whispering Satyrs, and 5 Rotting Ancients in Elun’aran, then return to Sister Mirallun in the Grove of the Sun.",
+    ["T"] = "The Rot of Elun’aran",
+  },
+  [42097] = {
+    ["D"] = "The druids behind this corruption do not act alone. Their leader is a keeper of the grove named Krothis. Once he was respected among the druids of these lands. A guardian of the forest, patient and wise. Many sought his counsel when the wilds fell out of balance. Now he serves another. The druids you fought speak of a figure they call Mothshroud. Long ago, before many of these groves fell silent, an archdruid guided the druids of this region. A teacher of dreams, of night, of the hidden places between waking and the Emerald Dream. He walked paths few druids dared to study. In time, those paths carried him somewhere… we could no longer follow. He vanished, and the groves slowly returned to simpler teachings. But it seems his shadow has returned. Krothis now serves Mothshroud, carrying out his will across the groves. If the forest is to heal, Krothis must fall.",
+    ["O"] = "Slay Keeper Krothis in Elun’aran and return to Sister Mirallun.",
+    ["T"] = "Keeper of the Broken Grove",
+  },
+  [42098] = {
+    ["D"] = "<name>, the Alliance has made great strides in securing grounds on the continent of Kalimdor, all thanks to the Bael Modan Garrison. Our brethren are fighting everyday for their survival, while ensuring our archaelogists can continue their work in excavating the land for crucial artifacts of historical significance! However, the brutish Tauren have begun attacking our forces and endangering both our expanditory endeavours as well as our quest to uncover more about our legacy. It is up to brave soldiers like you to join our military and ensure this mission is successful. If you are willing to bear the banner, speak to me again.",
+    ["O"] = "Win a battle in the battle for the Thorn Gorge and report to any of its Battlemasters in your capital cities afterwards.",
+    ["T"] = "The Thorn Gorge Frontier",
+  },
+  [42099] = {
+    ["D"] = "<name>, the vile and selfish dwarves have infiltrated our holy lands and began desecrating it! In their greed for knowledge they dug deep into the lands of the Earthmother and disrespected her sanctity. We cannot let this stand. The Horde will remind them of their brutal transgression and drive them out of our lands. For that, courageous soldiers such as you are needed. With your strength and perseverance, our defenders will have little issue in disposing of these invaders.",
+    ["O"] = "Win a battle in the battle for the Thorn Gorge and report to any of its Battlemasters in your capital cities afterwards.",
+    ["T"] = "The Thorn Gorge Defense",
+  },
+  [42100] = {
+    ["D"] = "<class>, you might be just the person I need. Today is the Day of Remembrance where the people of Stormwind pay reverence to Alonsus Faol, former Archbishop of the Northshire Abbey, by donating to the weak, elderly and any other unfortunate soul in the kingdom. I was on my way from Lakeshire, transporting the townfolk's selfless donations here to Stormwind, when a group of ghastly gnolls ransacked my wagon. All the clothes, food and toys were either damaged or completely ruined by them. With nothing to show, I grew desperate. But as if Archbishop Faol himself had listened to my anguish, my eyes had caught a shiny glimmer nearby. When I checked where it came from, I spotted a patch of clover, a clear sign of Faol's goodwill! It is said whoever follows the path of clover will follow the path of the fortunate. Perhaps this is the solution to my dilemma. Will you offer your aid to the needy people of Stormwind?",
+    ["O"] = "Follow the path of clover patches to help Raymond out of his dilemma! He waits in Goldshire in the Elwynn Forests.",
+    ["T"] = "Day of Remembrance",
+  },
+  [42101] = {
+    ["D"] = "Greetings, traveler. You may just be the right person for the predicament I am in. While we thank the Earthmother every single day for the boons she has provided us, today is a special occasion. All the tribes living in the promised land of Mulgore gather and contribute to a big feast on Thunder Bluff, where song and dance celebrate the abundance given to us by the Earthmother. Sadly, however, the wagon I was planning to transport the collected goods with has been pillaged by the local gnolls. All the clothes, food and instruments were completely ruined by them. Now we're scrambling to get by with what we have left. There is still a glimmer of hope, though. When I was perusing the village to see just what was left, in the corner of my eye I saw the faint image of a sprite running towards Thunder Bluff. When I took a second look however, all I could see was a patch of clover. <class>, I believe this to be a sign by the Earthmother. Follow the path of clover and we may yet save the feast.",
+    ["O"] = "Follow the path of clover patches to help Hefhani out of her dilemma! She waits in Bloodhoof Village in Mulgore.",
+    ["T"] = "Honoring the Earthmother",
+  },
+
 }
